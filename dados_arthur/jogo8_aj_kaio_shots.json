@@ -1,0 +1,96 @@
+{
+    "shotmap": [
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "goal",
+            "goalType": "penalty",
+            "situation": "penalty",
+            "playerCoordinates": {
+                "x": 11.5,
+                "y": 50,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "low-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 53.5,
+                "z": 0.6
+            },
+            "xg": 0.7884,
+            "xgot": 0.85194486379623,
+            "goalkeeper": {
+                "name": "Everson",
+                "slug": "everson",
+                "shortName": "Everson",
+                "position": "G",
+                "jerseyNumber": "22",
+                "userCount": 2892,
+                "gender": "M",
+                "sofascoreId": "h6rebc",
+                "id": 870748,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0625\u064a\u0641\u0631\u0633\u0648\u0646",
+                        "bn": "\u098f\u09ad\u09be\u09b0\u09b8\u09a8",
+                        "hi": "\u090f\u0935\u0930\u0938\u0928",
+                        "ru": "\u042d\u0432\u0435\u0440\u0441\u043e\u043d"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0625\u064a\u0641\u0631\u0633\u0648\u0646",
+                        "bn": "\u098f\u09ad\u09be\u09b0\u09b8\u09a8",
+                        "hi": "\u090f\u0935\u0930\u0938\u0928"
+                    }
+                }
+            },
+            "id": 7186212,
+            "time": 86,
+            "timeSeconds": 5149,
+            "draw": {
+                "start": {
+                    "x": 50,
+                    "y": 11.5
+                },
+                "end": {
+                    "x": 46.5,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 46.5,
+                    "y": 99.4
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 5,
+            "reversedPeriodTimeSeconds": 251,
+            "periodTimeSeconds": 2449
+        }
+    ]
+}

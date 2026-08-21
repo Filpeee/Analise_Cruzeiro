@@ -1,0 +1,284 @@
+{
+    "shotmap": [
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "miss",
+            "situation": "assisted",
+            "playerCoordinates": {
+                "x": 19.4,
+                "y": 61.3,
+                "z": 0
+            },
+            "bodyPart": "left-foot",
+            "goalMouthLocation": "high-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 64.7,
+                "z": 70.8
+            },
+            "xg": 0.053382612764835,
+            "xgot": 0,
+            "goalkeeper": {
+                "name": "Anthoni",
+                "firstName": "Anthoni",
+                "lastName": "",
+                "slug": "anthoni",
+                "shortName": "Anthoni",
+                "position": "G",
+                "jerseyNumber": "12",
+                "userCount": 754,
+                "gender": "M",
+                "sofascoreId": "dqa4b3",
+                "id": 1106134,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0623\u0646\u062a\u0648\u0646\u064a",
+                        "ru": "\u0410\u043d\u0442\u043e\u043d\u0438"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0623\u0646\u062a\u0648\u0646\u064a",
+                        "ru": "\u0410\u043d\u0442\u043e\u043d\u0438"
+                    }
+                }
+            },
+            "id": 7751618,
+            "time": 30,
+            "timeSeconds": 1774,
+            "draw": {
+                "start": {
+                    "x": 61.3,
+                    "y": 19.4
+                },
+                "end": {
+                    "x": 35.3,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 35.3,
+                    "y": 29.2
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 16,
+            "reversedPeriodTimeSeconds": 926,
+            "periodTimeSeconds": 1774
+        },
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "goal",
+            "goalType": "regular",
+            "situation": "fast-break",
+            "playerCoordinates": {
+                "x": 11.9,
+                "y": 63.6,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "low-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 52.7,
+                "z": 2.5
+            },
+            "xg": 0.2766732275486,
+            "xgot": 0.77512890100479,
+            "goalkeeper": {
+                "name": "Anthoni",
+                "firstName": "Anthoni",
+                "lastName": "",
+                "slug": "anthoni",
+                "shortName": "Anthoni",
+                "position": "G",
+                "jerseyNumber": "12",
+                "userCount": 754,
+                "gender": "M",
+                "sofascoreId": "dqa4b3",
+                "id": 1106134,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0623\u0646\u062a\u0648\u0646\u064a",
+                        "ru": "\u0410\u043d\u0442\u043e\u043d\u0438"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0623\u0646\u062a\u0648\u0646\u064a",
+                        "ru": "\u0410\u043d\u0442\u043e\u043d\u0438"
+                    }
+                }
+            },
+            "id": 7751481,
+            "time": 11,
+            "timeSeconds": 651,
+            "draw": {
+                "start": {
+                    "x": 63.6,
+                    "y": 11.9
+                },
+                "end": {
+                    "x": 47.3,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 47.3,
+                    "y": 97.5
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 35,
+            "reversedPeriodTimeSeconds": 2049,
+            "periodTimeSeconds": 651
+        },
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "save",
+            "situation": "regular",
+            "playerCoordinates": {
+                "x": 6.3,
+                "y": 66,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "low-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 54.6,
+                "z": 19
+            },
+            "blockCoordinates": {
+                "x": 5.7,
+                "y": 63.9,
+                "z": 0
+            },
+            "xg": 0.068889282643795,
+            "xgot": 0,
+            "goalkeeper": {
+                "name": "Anthoni",
+                "firstName": "Anthoni",
+                "lastName": "",
+                "slug": "anthoni",
+                "shortName": "Anthoni",
+                "position": "G",
+                "jerseyNumber": "12",
+                "userCount": 754,
+                "gender": "M",
+                "sofascoreId": "dqa4b3",
+                "id": 1106134,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0623\u0646\u062a\u0648\u0646\u064a",
+                        "ru": "\u0410\u043d\u0442\u043e\u043d\u0438"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0623\u0646\u062a\u0648\u0646\u064a",
+                        "ru": "\u0410\u043d\u0442\u043e\u043d\u0438"
+                    }
+                }
+            },
+            "id": 7751455,
+            "time": 2,
+            "timeSeconds": 106,
+            "draw": {
+                "start": {
+                    "x": 66,
+                    "y": 6.3
+                },
+                "block": {
+                    "x": 63.9,
+                    "y": 5.7
+                },
+                "end": {
+                    "x": 45.4,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 45.4,
+                    "y": 81
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 44,
+            "reversedPeriodTimeSeconds": 2594,
+            "periodTimeSeconds": 106
+        }
+    ]
+}

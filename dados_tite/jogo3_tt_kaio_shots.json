@@ -1,0 +1,392 @@
+{
+    "shotmap": [
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "goal",
+            "goalType": "penalty",
+            "situation": "penalty",
+            "playerCoordinates": {
+                "x": 11.5,
+                "y": 50,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "low-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 52.9,
+                "z": 1.9
+            },
+            "xg": 0.7884,
+            "xgot": 0.8612185716629,
+            "goalkeeper": {
+                "name": "Walter",
+                "firstName": "Walter Leandro",
+                "lastName": "Walter",
+                "slug": "walter",
+                "shortName": "Walter",
+                "position": "G",
+                "jerseyNumber": "22",
+                "userCount": 865,
+                "gender": "M",
+                "sofascoreId": "h3iuqc",
+                "id": 329055,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0648\u0627\u0644\u062a\u0631",
+                        "ru": "\u0423\u043e\u043b\u0442\u0435\u0440"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0648\u0627\u0644\u062a\u0631",
+                        "ru": "\u0423\u043e\u043b\u0442\u0435\u0440"
+                    }
+                }
+            },
+            "id": 6694078,
+            "time": 85,
+            "timeSeconds": 5054,
+            "draw": {
+                "start": {
+                    "x": 50,
+                    "y": 11.5
+                },
+                "end": {
+                    "x": 47.1,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 47.1,
+                    "y": 98.1
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 6,
+            "reversedPeriodTimeSeconds": 346,
+            "periodTimeSeconds": 2354
+        },
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "block",
+            "situation": "free-kick",
+            "playerCoordinates": {
+                "x": 19.2,
+                "y": 34.7,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "low-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 49.7,
+                "z": 19
+            },
+            "blockCoordinates": {
+                "x": 12.1,
+                "y": 40.4,
+                "z": 0
+            },
+            "xg": 0.07468356192112,
+            "xgot": 0,
+            "goalkeeper": {
+                "name": "Walter",
+                "firstName": "Walter Leandro",
+                "lastName": "Walter",
+                "slug": "walter",
+                "shortName": "Walter",
+                "position": "G",
+                "jerseyNumber": "22",
+                "userCount": 865,
+                "gender": "M",
+                "sofascoreId": "h3iuqc",
+                "id": 329055,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0648\u0627\u0644\u062a\u0631",
+                        "ru": "\u0423\u043e\u043b\u0442\u0435\u0440"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0648\u0627\u0644\u062a\u0631",
+                        "ru": "\u0423\u043e\u043b\u0442\u0435\u0440"
+                    }
+                }
+            },
+            "id": 6693670,
+            "time": 35,
+            "timeSeconds": 2059,
+            "draw": {
+                "start": {
+                    "x": 34.7,
+                    "y": 19.2
+                },
+                "block": {
+                    "x": 40.4,
+                    "y": 12.1
+                },
+                "end": {
+                    "x": 50.3,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 50.3,
+                    "y": 81
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 11,
+            "reversedPeriodTimeSeconds": 641,
+            "periodTimeSeconds": 2059
+        },
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "save",
+            "situation": "assisted",
+            "playerCoordinates": {
+                "x": 15.1,
+                "y": 50,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "high-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 48.6,
+                "z": 20.9
+            },
+            "blockCoordinates": {
+                "x": 1.4,
+                "y": 50,
+                "z": 0
+            },
+            "xg": 0.20070253312588,
+            "xgot": 0.19219796359539,
+            "goalkeeper": {
+                "name": "Walter",
+                "firstName": "Walter Leandro",
+                "lastName": "Walter",
+                "slug": "walter",
+                "shortName": "Walter",
+                "position": "G",
+                "jerseyNumber": "22",
+                "userCount": 865,
+                "gender": "M",
+                "sofascoreId": "h3iuqc",
+                "id": 329055,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0648\u0627\u0644\u062a\u0631",
+                        "ru": "\u0423\u043e\u043b\u0442\u0435\u0440"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0648\u0627\u0644\u062a\u0631",
+                        "ru": "\u0423\u043e\u043b\u0442\u0435\u0440"
+                    }
+                }
+            },
+            "id": 6693665,
+            "time": 28,
+            "timeSeconds": 1647,
+            "draw": {
+                "start": {
+                    "x": 50,
+                    "y": 15.1
+                },
+                "block": {
+                    "x": 50,
+                    "y": 1.4
+                },
+                "end": {
+                    "x": 51.4,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 51.4,
+                    "y": 79.1
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 18,
+            "reversedPeriodTimeSeconds": 1053,
+            "periodTimeSeconds": 1647
+        },
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": false,
+            "shotType": "miss",
+            "situation": "assisted",
+            "playerCoordinates": {
+                "x": 25.3,
+                "y": 52.6,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "right",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 28.9,
+                "z": 15.3
+            },
+            "blockCoordinates": {
+                "x": 11.4,
+                "y": 54.9,
+                "z": 0
+            },
+            "xg": 0.019805634394288,
+            "xgot": 0,
+            "goalkeeper": {
+                "name": "Walter",
+                "firstName": "Walter Leandro",
+                "lastName": "Walter",
+                "slug": "walter",
+                "shortName": "Walter",
+                "position": "G",
+                "jerseyNumber": "22",
+                "userCount": 865,
+                "gender": "M",
+                "sofascoreId": "h3iuqc",
+                "id": 329055,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0648\u0627\u0644\u062a\u0631",
+                        "ru": "\u0423\u043e\u043b\u0442\u0435\u0440"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0648\u0627\u0644\u062a\u0631",
+                        "ru": "\u0423\u043e\u043b\u0442\u0435\u0440"
+                    }
+                }
+            },
+            "id": 6693624,
+            "time": 17,
+            "timeSeconds": 1006,
+            "draw": {
+                "start": {
+                    "x": 52.6,
+                    "y": 25.3
+                },
+                "block": {
+                    "x": 54.9,
+                    "y": 11.4
+                },
+                "end": {
+                    "x": 71.1,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 71.1,
+                    "y": 84.7
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 29,
+            "reversedPeriodTimeSeconds": 1694,
+            "periodTimeSeconds": 1006
+        }
+    ]
+}

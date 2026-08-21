@@ -1,0 +1,201 @@
+{
+    "shotmap": [
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "block",
+            "situation": "fast-break",
+            "playerCoordinates": {
+                "x": 13.9,
+                "y": 35.4,
+                "z": 0
+            },
+            "bodyPart": "left-foot",
+            "goalMouthLocation": "low-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 51.7,
+                "z": 19
+            },
+            "blockCoordinates": {
+                "x": 11.8,
+                "y": 37.4,
+                "z": 0
+            },
+            "xg": 0.050930999219418,
+            "xgot": 0,
+            "goalkeeper": {
+                "name": "Hugo Souza",
+                "firstName": "Hugo",
+                "lastName": "Souza",
+                "slug": "hugo-souza",
+                "shortName": "H. Souza",
+                "position": "G",
+                "jerseyNumber": "1",
+                "userCount": 28542,
+                "gender": "M",
+                "sofascoreId": "hugosouza",
+                "id": 950454,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0647\u0648\u063a\u0648 \u0633\u0648\u0632\u0627",
+                        "bn": "\u09b9\u09c1\u0997\u09cb \u09b8\u09c1\u099c\u09be",
+                        "hi": "\u0939\u094d\u092f\u0942\u0917\u094b \u0938\u0942\u091c\u093c\u093e",
+                        "ru": "\u0423\u0433\u043e \u0421\u043e\u0443\u0437\u0430"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0647. \u0633\u0648\u0632\u0627",
+                        "bn": "\u098f\u0987\u099a. \u09b8\u09c1\u099c\u09be",
+                        "hi": "\u090f\u091a. \u0938\u0942\u091c\u093c\u093e",
+                        "ru": "\u0423. \u0421\u043e\u0443\u0437\u0430"
+                    }
+                }
+            },
+            "id": 6784767,
+            "time": 61,
+            "timeSeconds": 3601,
+            "draw": {
+                "start": {
+                    "x": 35.4,
+                    "y": 13.9
+                },
+                "block": {
+                    "x": 37.4,
+                    "y": 11.8
+                },
+                "end": {
+                    "x": 48.3,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 48.3,
+                    "y": 81
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 30,
+            "reversedPeriodTimeSeconds": 1799,
+            "periodTimeSeconds": 901
+        },
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "miss",
+            "situation": "assisted",
+            "playerCoordinates": {
+                "x": 27.6,
+                "y": 57.4,
+                "z": 0
+            },
+            "bodyPart": "right-foot",
+            "goalMouthLocation": "left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 60.2,
+                "z": 2.8
+            },
+            "xg": 0.02919390425086,
+            "xgot": 0,
+            "goalkeeper": {
+                "name": "Hugo Souza",
+                "firstName": "Hugo",
+                "lastName": "Souza",
+                "slug": "hugo-souza",
+                "shortName": "H. Souza",
+                "position": "G",
+                "jerseyNumber": "1",
+                "userCount": 28542,
+                "gender": "M",
+                "sofascoreId": "hugosouza",
+                "id": 950454,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0647\u0648\u063a\u0648 \u0633\u0648\u0632\u0627",
+                        "bn": "\u09b9\u09c1\u0997\u09cb \u09b8\u09c1\u099c\u09be",
+                        "hi": "\u0939\u094d\u092f\u0942\u0917\u094b \u0938\u0942\u091c\u093c\u093e",
+                        "ru": "\u0423\u0433\u043e \u0421\u043e\u0443\u0437\u0430"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0647. \u0633\u0648\u0632\u0627",
+                        "bn": "\u098f\u0987\u099a. \u09b8\u09c1\u099c\u09be",
+                        "hi": "\u090f\u091a. \u0938\u0942\u091c\u093c\u093e",
+                        "ru": "\u0423. \u0421\u043e\u0443\u0437\u0430"
+                    }
+                }
+            },
+            "id": 6784465,
+            "time": 7,
+            "timeSeconds": 385,
+            "draw": {
+                "start": {
+                    "x": 57.4,
+                    "y": 27.6
+                },
+                "end": {
+                    "x": 39.8,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 39.8,
+                    "y": 97.2
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 39,
+            "reversedPeriodTimeSeconds": 2315,
+            "periodTimeSeconds": 385
+        }
+    ]
+}

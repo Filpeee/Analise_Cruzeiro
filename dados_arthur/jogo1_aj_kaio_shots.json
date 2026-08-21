@@ -1,0 +1,190 @@
+{
+    "shotmap": [
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "goal",
+            "goalType": "regular",
+            "situation": "assisted",
+            "playerCoordinates": {
+                "x": 4.2,
+                "y": 47,
+                "z": 0
+            },
+            "bodyPart": "head",
+            "goalMouthLocation": "low-centre",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 50.8,
+                "z": 12
+            },
+            "xg": 0.45517468452454,
+            "xgot": 0.47803696990013,
+            "goalkeeper": {
+                "name": "Lucas Arcanjo",
+                "slug": "lucas-arcanjo",
+                "shortName": "L. Arcanjo",
+                "position": "G",
+                "jerseyNumber": "1",
+                "userCount": 1169,
+                "gender": "M",
+                "sofascoreId": "p99pkk",
+                "id": 982558,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0644\u0648\u0643\u0627\u0633 \u0623\u0631\u0643\u0627\u0646\u062c\u0648",
+                        "ru": "\u041b\u0443\u043a\u0430\u0441 \u0410\u0440\u043a\u0430\u043d\u0436\u043e"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0644. \u0623\u0631\u0643\u0627\u0646\u062c\u0648",
+                        "ru": "\u041b. \u0410\u0440\u043a\u0430\u043d\u0436\u043e"
+                    }
+                }
+            },
+            "id": 6988607,
+            "time": 39,
+            "timeSeconds": 2325,
+            "draw": {
+                "start": {
+                    "x": 47,
+                    "y": 4.2
+                },
+                "end": {
+                    "x": 49.2,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 49.2,
+                    "y": 88
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 7,
+            "reversedPeriodTimeSeconds": 375,
+            "periodTimeSeconds": 2325
+        },
+        {
+            "player": {
+                "name": "Kaio Jorge",
+                "firstName": "Kaio Jorge",
+                "lastName": "Kaio Jorge",
+                "slug": "kaio-jorge",
+                "shortName": "K. Jorge",
+                "position": "F",
+                "jerseyNumber": "19",
+                "userCount": 30993,
+                "gender": "M",
+                "sofascoreId": "kaiojorge",
+                "id": 954888,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                        "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                        "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                        "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                    }
+                }
+            },
+            "isHome": true,
+            "shotType": "block",
+            "situation": "assisted",
+            "playerCoordinates": {
+                "x": 8.1,
+                "y": 48.8,
+                "z": 0
+            },
+            "bodyPart": "head",
+            "goalMouthLocation": "low-left",
+            "goalMouthCoordinates": {
+                "x": 0,
+                "y": 52.9,
+                "z": 19
+            },
+            "blockCoordinates": {
+                "x": 6,
+                "y": 48.4,
+                "z": 0
+            },
+            "xg": 0.088223546743393,
+            "xgot": 0,
+            "goalkeeper": {
+                "name": "Lucas Arcanjo",
+                "slug": "lucas-arcanjo",
+                "shortName": "L. Arcanjo",
+                "position": "G",
+                "jerseyNumber": "1",
+                "userCount": 1169,
+                "gender": "M",
+                "sofascoreId": "p99pkk",
+                "id": 982558,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0644\u0648\u0643\u0627\u0633 \u0623\u0631\u0643\u0627\u0646\u062c\u0648",
+                        "ru": "\u041b\u0443\u043a\u0430\u0441 \u0410\u0440\u043a\u0430\u043d\u0436\u043e"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0644. \u0623\u0631\u0643\u0627\u0646\u062c\u0648",
+                        "ru": "\u041b. \u0410\u0440\u043a\u0430\u043d\u0436\u043e"
+                    }
+                }
+            },
+            "id": 6988486,
+            "time": 4,
+            "timeSeconds": 209,
+            "draw": {
+                "start": {
+                    "x": 48.8,
+                    "y": 8.1
+                },
+                "block": {
+                    "x": 48.4,
+                    "y": 6
+                },
+                "end": {
+                    "x": 47.1,
+                    "y": 0
+                },
+                "goal": {
+                    "x": 47.1,
+                    "y": 81
+                }
+            },
+            "incidentType": "shot",
+            "reversedPeriodTime": 42,
+            "reversedPeriodTimeSeconds": 2491,
+            "periodTimeSeconds": 209
+        }
+    ]
+}

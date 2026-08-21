@@ -1,0 +1,4341 @@
+{
+    "confirmed": true,
+    "home": {
+        "players": [
+            {
+                "player": {
+                    "name": "Matheus Cunha",
+                    "firstName": "Matheus Cunha",
+                    "slug": "matheus-cunha",
+                    "shortName": "M. Cunha",
+                    "position": "G",
+                    "jerseyNumber": "25",
+                    "height": 193,
+                    "userCount": 5182,
+                    "gender": "M",
+                    "sofascoreId": "vuzxix",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1105835,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 990662400,
+                    "proposedMarketValueRaw": {
+                        "value": 2900000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0645\u0627\u062a\u064a\u0648\u0633 \u0643\u0648\u0646\u0627",
+                            "bn": "\u09ae\u09cd\u09af\u09be\u09a5\u09bf\u0989\u09b8 \u0995\u09c1\u09a8\u09b9\u09be",
+                            "hi": "\u092e\u0948\u0925\u093f\u092f\u0938 \u0915\u0941\u0928\u094d\u0939\u093e",
+                            "ru": "\u041c\u0430\u0442heus \u041a\u0443\u043d\u044c\u044f"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0645. \u0643\u0648\u0646\u0627",
+                            "bn": "\u098f\u09ae. \u0995\u09c1\u09a8\u09b9\u09be",
+                            "hi": "\u090f\u092e. \u0915\u0941\u0928\u094d\u0939\u093e",
+                            "ru": "\u041c. \u041a\u0443\u043d\u044c\u044f"
+                        }
+                    }
+                },
+                "teamId": 1966,
+                "shirtNumber": 31,
+                "jerseyNumber": "31",
+                "position": "G",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 19,
+                    "accuratePass": 14,
+                    "totalLongBalls": 6,
+                    "accurateLongBalls": 3,
+                    "goalAssist": 1,
+                    "accurateOwnHalfPasses": 11,
+                    "totalOwnHalfPasses": 15,
+                    "accurateOppositionHalfPasses": 3,
+                    "totalOppositionHalfPasses": 4,
+                    "aerialWon": 1,
+                    "duelWon": 1,
+                    "totalClearance": 1,
+                    "ballRecovery": 5,
+                    "savedShotsFromInsideTheBox": 1,
+                    "saves": 1,
+                    "punches": 1,
+                    "minutesPlayed": 90,
+                    "touches": 26,
+                    "rating": 7.2,
+                    "possessionLostCtrl": 5,
+                    "expectedAssists": 0.00068857,
+                    "totalBallCarriesDistance": 32.417531798812,
+                    "ballCarriesCount": 6,
+                    "totalProgression": 16.229244718184,
+                    "progressiveBallCarriesCount": 0,
+                    "keeperSaveValue": 0.1608,
+                    "keyPass": 1,
+                    "ratingVersions": {
+                        "original": 7.2,
+                        "alternative": 7.2
+                    },
+                    "totalShots": 0,
+                    "goalsPrevented": 0.0662,
+                    "passValueNormalized": 0.21,
+                    "dribbleValueNormalized": -0,
+                    "defensiveValueNormalized": 0.18,
+                    "goalkeeperValueNormalized": 0.19,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "William Furtado",
+                    "firstName": "William",
+                    "lastName": "Furtado",
+                    "slug": "william-furtado",
+                    "shortName": "W. Furtado",
+                    "position": "D",
+                    "jerseyNumber": "12",
+                    "height": 176,
+                    "userCount": 2870,
+                    "gender": "M",
+                    "sofascoreId": "n87rkx",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 604274,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 796867200,
+                    "proposedMarketValueRaw": {
+                        "value": 2700000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0648\u064a\u0644\u064a\u0627\u0645 \u0641\u0648\u0631\u062a\u0627\u062f\u0648",
+                            "bn": "\u0989\u0987\u09b2\u09bf\u09af\u09bc\u09be\u09ae",
+                            "hi": "\u0935\u093f\u0932\u093f\u092f\u092e",
+                            "ru": "\u0423\u0438\u043b\u044c\u044f\u043c \u0424\u0443\u0440\u0442\u0430\u0434\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0648. \u0641\u0648\u0631\u062a\u0627\u062f\u0648",
+                            "bn": "\u0989\u0987\u09b2\u09bf\u09af\u09bc\u09be\u09ae",
+                            "hi": "\u0935\u093f\u0932\u093f\u092f\u092e",
+                            "ru": "\u0423. \u0424\u0443\u0440\u0442\u0430\u0434\u043e"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 12,
+                "jerseyNumber": "12",
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 38,
+                    "accuratePass": 32,
+                    "totalLongBalls": 1,
+                    "accurateLongBalls": 1,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 15,
+                    "totalOwnHalfPasses": 16,
+                    "accurateOppositionHalfPasses": 17,
+                    "totalOppositionHalfPasses": 22,
+                    "totalCross": 3,
+                    "aerialLost": 1,
+                    "aerialWon": 1,
+                    "duelLost": 1,
+                    "duelWon": 2,
+                    "totalClearance": 3,
+                    "ballRecovery": 3,
+                    "totalTackle": 1,
+                    "minutesPlayed": 75,
+                    "touches": 57,
+                    "rating": 6.8,
+                    "possessionLostCtrl": 10,
+                    "expectedAssists": 0.010738,
+                    "topSpeed": 32.4,
+                    "kilometersCovered": 7.66,
+                    "numberOfSprints": 23,
+                    "totalBallCarriesDistance": 83.200973073695,
+                    "ballCarriesCount": 14,
+                    "totalProgression": 22.882590171434,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.8,
+                        "alternative": 6.9
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": -0.13,
+                    "dribbleValueNormalized": 0.04,
+                    "defensiveValueNormalized": 0.17,
+                    "metersCoveredRunningKm": 0.91,
+                    "metersCoveredHighSpeedRunningKm": 0.52,
+                    "metersCoveredSprintingKm": 0.26,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Fabr\u00edcio Bruno",
+                    "firstName": "Fabricio Bruno",
+                    "lastName": "Fabricio Bruno",
+                    "slug": "fabricio-bruno",
+                    "shortName": "F. Bruno",
+                    "position": "D",
+                    "jerseyNumber": "15",
+                    "height": 192,
+                    "userCount": 7321,
+                    "gender": "M",
+                    "sofascoreId": "fabriciobruno96",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 840220,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 824083200,
+                    "proposedMarketValueRaw": {
+                        "value": 13200000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0641\u0627\u0628\u0631\u064a\u0633\u064a\u0648 \u0628\u0631\u0648\u0646\u0648",
+                            "bn": "\u09ab\u09cd\u09af\u09be\u09ac\u09cd\u09b0\u09bf\u09b8\u09bf\u0993 \u09ac\u09cd\u09b0\u09c1\u09a8\u09cb",
+                            "hi": "\u092b\u093c\u0948\u092c\u094d\u0930\u093f\u0938\u093f\u092f\u094b \u092c\u094d\u0930\u0942\u0928\u094b",
+                            "ru": "\u0424\u0430\u0431\u0440\u0438\u0441\u0438\u043e \u0411\u0440\u0443\u043d\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0641. \u0628\u0631\u0648\u0646\u0648",
+                            "bn": "\u098f\u09ab. \u09ac\u09cd\u09b0\u09c1\u09a8\u09cb",
+                            "hi": "\u090f\u092b. \u092c\u094d\u0930\u0942\u0928\u094b",
+                            "ru": "\u0424. \u0411\u0440\u0443\u043d\u043e"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 15,
+                "jerseyNumber": "15",
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 76,
+                    "accuratePass": 72,
+                    "totalLongBalls": 2,
+                    "accurateLongBalls": 1,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 34,
+                    "totalOwnHalfPasses": 36,
+                    "accurateOppositionHalfPasses": 38,
+                    "totalOppositionHalfPasses": 40,
+                    "totalCross": 1,
+                    "aerialLost": 1,
+                    "aerialWon": 6,
+                    "duelLost": 1,
+                    "duelWon": 8,
+                    "totalContest": 1,
+                    "wonContest": 1,
+                    "bigChanceCreated": 1,
+                    "shotOffTarget": 1,
+                    "onTargetScoringAttempt": 1,
+                    "totalClearance": 8,
+                    "interceptionWon": 2,
+                    "ballRecovery": 2,
+                    "totalTackle": 1,
+                    "wonTackle": 1,
+                    "minutesPlayed": 90,
+                    "touches": 93,
+                    "rating": 8.3,
+                    "possessionLostCtrl": 5,
+                    "expectedGoals": 0.1107,
+                    "expectedGoalsOnTarget": 0.0738,
+                    "expectedAssists": 0.0228723,
+                    "topSpeed": 33.06,
+                    "kilometersCovered": 9.14,
+                    "numberOfSprints": 14,
+                    "totalBallCarriesDistance": 267.28374727506,
+                    "ballCarriesCount": 38,
+                    "totalProgression": 172.69014428213,
+                    "bestBallCarryProgression": 19.261408140084,
+                    "totalProgressiveBallCarriesDistance": 22.915086733416,
+                    "progressiveBallCarriesCount": 1,
+                    "keyPass": 1,
+                    "ratingVersions": {
+                        "original": 8.3,
+                        "alternative": 8.3
+                    },
+                    "totalShots": 2,
+                    "shotValueNormalized": -0.24,
+                    "passValueNormalized": 0.45,
+                    "dribbleValueNormalized": 0.24,
+                    "defensiveValueNormalized": 0.34,
+                    "metersCoveredRunningKm": 0.91,
+                    "metersCoveredHighSpeedRunningKm": 0.42,
+                    "metersCoveredSprintingKm": 0.17,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Lucas Villalba",
+                    "firstName": "Lucas",
+                    "lastName": "Villalba",
+                    "slug": "lucas-villalba",
+                    "shortName": "L. Villalba",
+                    "position": "D",
+                    "jerseyNumber": "25",
+                    "height": 177,
+                    "userCount": 2353,
+                    "gender": "M",
+                    "sofascoreId": "wxy94k",
+                    "country": {
+                        "alpha2": "AR",
+                        "alpha3": "ARG",
+                        "name": "Argentina",
+                        "slug": "argentina"
+                    },
+                    "id": 260077,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 777254400,
+                    "proposedMarketValueRaw": {
+                        "value": 1800000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0644\u0648\u0643\u0627\u0633 \u0641\u064a\u0644\u0627\u0644\u0628\u0627",
+                            "ru": "\u041b\u0443\u043a\u0430\u0441 \u0412\u0438\u043b\u044c\u044f\u043b\u0431\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0644. \u0641\u064a\u0644\u0627\u0644\u0628\u0627",
+                            "ru": "\u041b. \u0412\u0438\u043b\u044c\u044f\u043b\u0431\u0430"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 25,
+                "jerseyNumber": "25",
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 78,
+                    "accuratePass": 72,
+                    "totalLongBalls": 3,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 52,
+                    "totalOwnHalfPasses": 54,
+                    "accurateOppositionHalfPasses": 20,
+                    "totalOppositionHalfPasses": 24,
+                    "aerialLost": 2,
+                    "aerialWon": 2,
+                    "duelLost": 4,
+                    "duelWon": 4,
+                    "challengeLost": 1,
+                    "totalClearance": 6,
+                    "interceptionWon": 1,
+                    "ballRecovery": 2,
+                    "totalTackle": 1,
+                    "wonTackle": 1,
+                    "unsuccessfulTouch": 2,
+                    "wasFouled": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 90,
+                    "touches": 90,
+                    "rating": 6.9,
+                    "possessionLostCtrl": 8,
+                    "expectedAssists": 0.00568922,
+                    "topSpeed": 33.38,
+                    "kilometersCovered": 8.71,
+                    "numberOfSprints": 14,
+                    "totalBallCarriesDistance": 220.2865902637,
+                    "ballCarriesCount": 31,
+                    "totalProgression": 72.405152744308,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.9,
+                        "alternative": 6.9
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.12,
+                    "dribbleValueNormalized": 0.1,
+                    "defensiveValueNormalized": 0.21,
+                    "metersCoveredRunningKm": 0.87,
+                    "metersCoveredHighSpeedRunningKm": 0.46,
+                    "metersCoveredSprintingKm": 0.17,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Kau\u00e3 Moraes",
+                    "slug": "kaua-moraes",
+                    "shortName": "K. Moraes",
+                    "position": "D",
+                    "jerseyNumber": "2",
+                    "height": 178,
+                    "userCount": 1245,
+                    "gender": "M",
+                    "sofascoreId": "xd7zsk",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 2057367,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1159488000,
+                    "proposedMarketValueRaw": {
+                        "value": 1900000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u0648\u0627\u0646 \u0645\u0648\u0631\u0627\u064a\u0633",
+                            "ru": "\u041a\u0430\u0443\u00e3 \u041c\u043e\u0440\u0430\u0435\u0441"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643. \u0645\u0648\u0631\u0627\u064a\u0633",
+                            "ru": "\u041a. \u041c\u043e\u0440\u0430\u0435\u0441"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 2,
+                "jerseyNumber": "2",
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 31,
+                    "accuratePass": 29,
+                    "totalLongBalls": 1,
+                    "accurateLongBalls": 1,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 15,
+                    "totalOwnHalfPasses": 15,
+                    "accurateOppositionHalfPasses": 14,
+                    "totalOppositionHalfPasses": 16,
+                    "duelLost": 9,
+                    "duelWon": 4,
+                    "challengeLost": 1,
+                    "dispossessed": 2,
+                    "totalContest": 1,
+                    "bigChanceMissed": 1,
+                    "onTargetScoringAttempt": 2,
+                    "goals": 1,
+                    "totalClearance": 1,
+                    "interceptionWon": 1,
+                    "ballRecovery": 3,
+                    "totalTackle": 2,
+                    "wonTackle": 1,
+                    "unsuccessfulTouch": 1,
+                    "wasFouled": 2,
+                    "fouls": 5,
+                    "minutesPlayed": 90,
+                    "touches": 51,
+                    "rating": 7.7,
+                    "possessionLostCtrl": 8,
+                    "expectedGoals": 1.0092,
+                    "expectedGoalsOnTarget": 0.3632,
+                    "expectedAssists": 0.00562344,
+                    "topSpeed": 33.38,
+                    "kilometersCovered": 9.72,
+                    "numberOfSprints": 15,
+                    "totalBallCarriesDistance": 59.441796261366,
+                    "ballCarriesCount": 9,
+                    "totalProgression": 36.244438765015,
+                    "bestBallCarryProgression": 21.064188169374,
+                    "totalProgressiveBallCarriesDistance": 21.438690468403,
+                    "progressiveBallCarriesCount": 1,
+                    "ratingVersions": {
+                        "original": 7.7,
+                        "alternative": 7.2
+                    },
+                    "totalShots": 2,
+                    "shotValueNormalized": 0.52,
+                    "passValueNormalized": 0.01,
+                    "dribbleValueNormalized": 0.14,
+                    "defensiveValueNormalized": 0.17,
+                    "metersCoveredRunningKm": 1.13,
+                    "metersCoveredHighSpeedRunningKm": 0.51,
+                    "metersCoveredSprintingKm": 0.22,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Matheus Henrique",
+                    "firstName": "Matheus",
+                    "lastName": "Henrique",
+                    "slug": "matheus-henrique",
+                    "shortName": "M. Henrique",
+                    "position": "M",
+                    "jerseyNumber": "7",
+                    "height": 175,
+                    "userCount": 3456,
+                    "gender": "M",
+                    "sofascoreId": "nnemkx",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 912786,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 882489600,
+                    "proposedMarketValueRaw": {
+                        "value": 4099999,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0645\u0627\u062b\u064a\u0648\u0633 \u0647\u0646\u0631\u064a\u0643",
+                            "bn": "\u09ae\u09cd\u09af\u09be\u09a5\u09bf\u0989\u09b8 \u09b9\u09c7\u09a8\u09b0\u09bf\u0995",
+                            "hi": "\u092e\u0948\u0925\u093f\u092f\u0938 \u0939\u0947\u0928\u0930\u093f\u0915",
+                            "ru": "\u041c\u0430\u0442\u0443\u0441 \u042d\u043d\u0440\u0438\u043a\u0435"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0645\u0627\u062b\u064a\u0648\u0633 \u0647\u0646\u0631\u064a\u0643",
+                            "bn": "\u09ae\u09cd\u09af\u09be\u09a5\u09bf\u0989\u09b8 \u09b9\u09c7\u09a8\u09b0\u09bf\u0995",
+                            "hi": "\u092e\u0948\u0925\u093f\u092f\u0938 \u0939\u0947\u0928\u0930\u093f\u0915",
+                            "ru": "\u041c. \u042d\u043d\u0440\u0438\u043a\u0435"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 8,
+                "jerseyNumber": "8",
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 74,
+                    "accuratePass": 69,
+                    "totalLongBalls": 3,
+                    "accurateLongBalls": 1,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 36,
+                    "totalOwnHalfPasses": 37,
+                    "accurateOppositionHalfPasses": 33,
+                    "totalOppositionHalfPasses": 37,
+                    "duelLost": 1,
+                    "duelWon": 2,
+                    "totalClearance": 1,
+                    "outfielderBlock": 2,
+                    "ballRecovery": 7,
+                    "totalTackle": 1,
+                    "wasFouled": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 90,
+                    "touches": 82,
+                    "rating": 7.1,
+                    "possessionLostCtrl": 5,
+                    "expectedAssists": 0.0261863,
+                    "topSpeed": 31.85,
+                    "kilometersCovered": 9.77,
+                    "numberOfSprints": 13,
+                    "totalBallCarriesDistance": 269.83853246984,
+                    "ballCarriesCount": 38,
+                    "totalProgression": 107.40963612207,
+                    "bestBallCarryProgression": 21.716583909839,
+                    "totalProgressiveBallCarriesDistance": 23.54894146241,
+                    "progressiveBallCarriesCount": 1,
+                    "ratingVersions": {
+                        "original": 7.1,
+                        "alternative": 7.1
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.22,
+                    "dribbleValueNormalized": 0.2,
+                    "defensiveValueNormalized": 0.28,
+                    "metersCoveredRunningKm": 1.22,
+                    "metersCoveredHighSpeedRunningKm": 0.46,
+                    "metersCoveredSprintingKm": 0.18,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Gerson",
+                    "firstName": "Gerson",
+                    "lastName": "Gerson",
+                    "slug": "gerson",
+                    "shortName": "Gerson",
+                    "position": "M",
+                    "jerseyNumber": "8",
+                    "height": 185,
+                    "userCount": 30269,
+                    "gender": "M",
+                    "sofascoreId": "gerson_santos",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 611876,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 864086400,
+                    "proposedMarketValueRaw": {
+                        "value": 18500000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u062c\u064a\u0631\u0633\u0648\u0646",
+                            "bn": "\u0997\u09be\u09b0\u09b8\u09a8",
+                            "hi": "\u0917\u0947\u0930\u094d\u0938\u0928",
+                            "ru": "\u0413\u0435\u0440\u0441\u043e\u043d"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u062c\u064a\u0631\u0633\u0648\u0646",
+                            "bn": "\u0997\u09be\u09b0\u09b8\u09a8",
+                            "hi": "\u0917\u0947\u0930\u094d\u0938\u0928",
+                            "ru": "\u0413\u0435\u0440\u0441\u043e\u043d"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 11,
+                "jerseyNumber": "11",
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 81,
+                    "accuratePass": 76,
+                    "totalLongBalls": 5,
+                    "accurateLongBalls": 3,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 34,
+                    "totalOwnHalfPasses": 36,
+                    "accurateOppositionHalfPasses": 42,
+                    "totalOppositionHalfPasses": 45,
+                    "aerialWon": 1,
+                    "duelLost": 1,
+                    "duelWon": 3,
+                    "challengeLost": 1,
+                    "totalContest": 1,
+                    "wonContest": 1,
+                    "shotOffTarget": 1,
+                    "interceptionWon": 1,
+                    "ballRecovery": 5,
+                    "totalTackle": 1,
+                    "wonTackle": 1,
+                    "minutesPlayed": 82,
+                    "touches": 85,
+                    "rating": 7.1,
+                    "possessionLostCtrl": 5,
+                    "expectedGoals": 0.132,
+                    "expectedAssists": 0.0293351,
+                    "topSpeed": 32.49,
+                    "kilometersCovered": 8.43,
+                    "numberOfSprints": 11,
+                    "totalBallCarriesDistance": 368.73936025628,
+                    "ballCarriesCount": 44,
+                    "totalProgression": 193.02326020718,
+                    "bestBallCarryProgression": 26.802226165087,
+                    "totalProgressiveBallCarriesDistance": 44.117302117596,
+                    "progressiveBallCarriesCount": 2,
+                    "ratingVersions": {
+                        "original": 7.1,
+                        "alternative": 7.1
+                    },
+                    "totalShots": 1,
+                    "shotValueNormalized": -0.37,
+                    "passValueNormalized": 0.22,
+                    "dribbleValueNormalized": 0.33,
+                    "defensiveValueNormalized": -0.04,
+                    "metersCoveredRunningKm": 1.1,
+                    "metersCoveredHighSpeedRunningKm": 0.41,
+                    "metersCoveredSprintingKm": 0.19,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Keny Arroyo",
+                    "firstName": "Keny Arroyo",
+                    "lastName": "",
+                    "slug": "arroyo-keny",
+                    "shortName": "K. Arroyo",
+                    "position": "M",
+                    "jerseyNumber": "99",
+                    "height": 176,
+                    "userCount": 7482,
+                    "gender": "M",
+                    "sofascoreId": "hid7d3",
+                    "country": {
+                        "alpha2": "EC",
+                        "alpha3": "ECU",
+                        "name": "Ecuador",
+                        "slug": "ecuador"
+                    },
+                    "id": 1482431,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1139875200,
+                    "proposedMarketValueRaw": {
+                        "value": 9700000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0623\u0631\u0648\u064a\u0648\u060c \u0643\u064a\u0646\u064a",
+                            "bn": "\u0985\u09cd\u09af\u09be\u09b0\u09cb\u09af\u09bc\u09cb, \u0995\u09c7\u09a8\u09bf",
+                            "hi": "\u0905\u0930\u094b\u092f\u094b, \u0915\u0947\u0928\u094d\u092f\u093e",
+                            "ru": "\u041a\u0435\u043d\u0438 \u0410\u0440\u0440\u043e\u0439\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643. \u0623\u0631\u0648\u064a\u0648",
+                            "bn": "\u0995\u09c7. \u0985\u09cd\u09af\u09be\u09b0\u09cb\u09af\u09bc\u09cb",
+                            "hi": "\u0915\u0947. \u0905\u0930\u094b\u092f\u094b",
+                            "ru": "\u041a. \u0410\u0440\u0440\u043e\u0439\u043e"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 99,
+                "jerseyNumber": "99",
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 26,
+                    "accuratePass": 21,
+                    "totalLongBalls": 1,
+                    "accurateLongBalls": 1,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 5,
+                    "totalOwnHalfPasses": 6,
+                    "accurateOppositionHalfPasses": 16,
+                    "totalOppositionHalfPasses": 20,
+                    "totalCross": 1,
+                    "aerialLost": 1,
+                    "aerialWon": 1,
+                    "duelLost": 2,
+                    "duelWon": 4,
+                    "onTargetScoringAttempt": 1,
+                    "blockedScoringAttempt": 1,
+                    "totalClearance": 1,
+                    "interceptionWon": 1,
+                    "ballRecovery": 2,
+                    "totalTackle": 1,
+                    "unsuccessfulTouch": 1,
+                    "wasFouled": 2,
+                    "fouls": 1,
+                    "minutesPlayed": 68,
+                    "touches": 38,
+                    "rating": 6.7,
+                    "possessionLostCtrl": 8,
+                    "expectedGoals": 0.0549,
+                    "expectedGoalsOnTarget": 0.0708,
+                    "expectedAssists": 0.010981,
+                    "topSpeed": 31.98,
+                    "kilometersCovered": 7.28,
+                    "numberOfSprints": 17,
+                    "totalBallCarriesDistance": 81.777614197926,
+                    "ballCarriesCount": 12,
+                    "totalProgression": 32.989692579178,
+                    "bestBallCarryProgression": 14.371776802701,
+                    "totalProgressiveBallCarriesDistance": 14.507689030304,
+                    "progressiveBallCarriesCount": 1,
+                    "ratingVersions": {
+                        "original": 6.7,
+                        "alternative": 7.2
+                    },
+                    "totalShots": 2,
+                    "shotValueNormalized": -0.11,
+                    "passValueNormalized": -0.17,
+                    "dribbleValueNormalized": 0.05,
+                    "defensiveValueNormalized": 0.13,
+                    "metersCoveredRunningKm": 1.05,
+                    "metersCoveredHighSpeedRunningKm": 0.56,
+                    "metersCoveredSprintingKm": 0.23,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Matheus Pereira",
+                    "firstName": "Matheus",
+                    "lastName": "Pereira",
+                    "slug": "matheus-pereira",
+                    "shortName": "M. Pereira",
+                    "position": "M",
+                    "jerseyNumber": "10",
+                    "height": 175,
+                    "userCount": 18040,
+                    "gender": "M",
+                    "sofascoreId": "matheus_pereira",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 377238,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 831254400,
+                    "proposedMarketValueRaw": {
+                        "value": 13500000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0645\u0627\u062b\u064a\u0648\u0633 \u0628\u064a\u0631\u064a\u0631\u0627",
+                            "bn": "\u09ae\u09cd\u09af\u09be\u09a5\u09bf\u0989\u09b8 \u09aa\u09c7\u09b0\u09c7\u0987\u09b0\u09be",
+                            "hi": "\u092e\u0948\u0925\u093f\u092f\u0938 \u092a\u0930\u0947\u0930\u093e",
+                            "ru": "\u041c\u0430\u0442\u044d\u0443\u0441 \u041f\u0435\u0440\u0435\u0439\u0440\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0645. \u0628\u064a\u0631\u064a\u0631\u0627",
+                            "bn": "\u098f\u09ae. \u09aa\u09c7\u09b0\u09c7\u0987\u09b0\u09be",
+                            "hi": "\u090f\u092e. \u092a\u0930\u0947\u0930\u093e",
+                            "ru": "\u041c. \u041f\u0435\u0440\u0435\u0439\u0440\u0430"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 10,
+                "jerseyNumber": "10",
+                "position": "M",
+                "substitute": false,
+                "captain": true,
+                "statistics": {
+                    "totalPass": 58,
+                    "accuratePass": 44,
+                    "totalLongBalls": 6,
+                    "accurateLongBalls": 1,
+                    "goalAssist": 1,
+                    "accurateOwnHalfPasses": 10,
+                    "totalOwnHalfPasses": 12,
+                    "accurateOppositionHalfPasses": 34,
+                    "totalOppositionHalfPasses": 46,
+                    "totalCross": 5,
+                    "accurateCross": 4,
+                    "aerialLost": 2,
+                    "duelLost": 8,
+                    "duelWon": 4,
+                    "dispossessed": 1,
+                    "totalContest": 1,
+                    "shotOffTarget": 1,
+                    "totalClearance": 1,
+                    "ballRecovery": 3,
+                    "totalTackle": 1,
+                    "wonTackle": 1,
+                    "unsuccessfulTouch": 1,
+                    "wasFouled": 3,
+                    "fouls": 4,
+                    "totalOffside": 1,
+                    "minutesPlayed": 90,
+                    "touches": 75,
+                    "rating": 6.9,
+                    "possessionLostCtrl": 19,
+                    "expectedGoals": 0.0537,
+                    "expectedAssists": 0.253149,
+                    "topSpeed": 33.87,
+                    "kilometersCovered": 10.16,
+                    "numberOfSprints": 16,
+                    "totalBallCarriesDistance": 159.32069811146,
+                    "ballCarriesCount": 26,
+                    "totalProgression": 17.777808287565,
+                    "bestBallCarryProgression": 24.759213227493,
+                    "totalProgressiveBallCarriesDistance": 25.787289911893,
+                    "progressiveBallCarriesCount": 1,
+                    "keyPass": 5,
+                    "ratingVersions": {
+                        "original": 6.9,
+                        "alternative": 7.7
+                    },
+                    "totalShots": 1,
+                    "shotValueNormalized": 0,
+                    "passValueNormalized": 0.48,
+                    "dribbleValueNormalized": 0.1,
+                    "defensiveValueNormalized": 0.14,
+                    "metersCoveredRunningKm": 1.42,
+                    "metersCoveredHighSpeedRunningKm": 0.63,
+                    "metersCoveredSprintingKm": 0.23,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Christian",
+                    "slug": "christian",
+                    "shortName": "Christian",
+                    "position": "M",
+                    "jerseyNumber": "18",
+                    "height": 178,
+                    "userCount": 2394,
+                    "gender": "M",
+                    "sofascoreId": "zbb5wu",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 981733,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 977184000,
+                    "proposedMarketValueRaw": {
+                        "value": 12800000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646",
+                            "ru": "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646",
+                            "ru": "\u041a\u0440\u0438\u0441\u0442\u0438\u0430\u043d"
+                        }
+                    }
+                },
+                "teamId": 34425,
+                "shirtNumber": 88,
+                "jerseyNumber": "88",
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 22,
+                    "accuratePass": 18,
+                    "totalLongBalls": 1,
+                    "goalAssist": 1,
+                    "accurateOwnHalfPasses": 5,
+                    "totalOwnHalfPasses": 5,
+                    "accurateOppositionHalfPasses": 13,
+                    "totalOppositionHalfPasses": 17,
+                    "totalCross": 2,
+                    "accurateCross": 1,
+                    "duelLost": 3,
+                    "duelWon": 4,
+                    "challengeLost": 1,
+                    "totalContest": 1,
+                    "bigChanceCreated": 1,
+                    "onTargetScoringAttempt": 1,
+                    "goals": 1,
+                    "ballRecovery": 4,
+                    "totalTackle": 2,
+                    "wonTackle": 1,
+                    "unsuccessfulTouch": 2,
+                    "wasFouled": 2,
+                    "fouls": 2,
+                    "minutesPlayed": 82,
+                    "touches": 34,
+                    "rating": 9,
+                    "possessionLostCtrl": 8,
+                    "expectedGoals": 0.0318,
+                    "expectedGoalsOnTarget": 0.3511,
+                    "expectedAssists": 0.452725,
+                    "topSpeed": 31.43,
+                    "kilometersCovered": 9.14,
+                    "numberOfSprints": 22,
+                    "totalBallCarriesDistance": 95.099029196759,
+                    "ballCarriesCount": 12,
+                    "totalProgression": 40.173904780058,
+                    "bestBallCarryProgression": 19.284247082739,
+                    "totalProgressiveBallCarriesDistance": 22.167623440504,
+                    "progressiveBallCarriesCount": 1,
+                    "keyPass": 2,
+                    "ratingVersions": {
+                        "original": 9,
+                        "alternative": 8.4
+                    },
+                    "totalShots": 1,
+                    "shotValueNormalized": 0.51,
+                    "passValueNormalized": 0.77,
+                    "dribbleValueNormalized": 0.2,
+                    "defensiveValueNormalized": -0.04,
+                    "metersCoveredRunningKm": 1.31,
+                    "metersCoveredHighSpeedRunningKm": 0.67,
+                    "metersCoveredSprintingKm": 0.25,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Kaio Jorge",
+                    "firstName": "Kaio Jorge",
+                    "lastName": "Kaio Jorge",
+                    "slug": "kaio-jorge",
+                    "shortName": "K. Jorge",
+                    "position": "F",
+                    "jerseyNumber": "19",
+                    "height": 182,
+                    "userCount": 30993,
+                    "gender": "M",
+                    "sofascoreId": "kaiojorge",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 954888,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1011830400,
+                    "proposedMarketValueRaw": {
+                        "value": 24000000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                            "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                            "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                            "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                            "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                            "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                            "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 19,
+                "jerseyNumber": "19",
+                "position": "F",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 13,
+                    "accuratePass": 12,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 3,
+                    "totalOwnHalfPasses": 3,
+                    "accurateOppositionHalfPasses": 9,
+                    "totalOppositionHalfPasses": 10,
+                    "aerialLost": 2,
+                    "aerialWon": 1,
+                    "duelLost": 3,
+                    "duelWon": 1,
+                    "totalContest": 1,
+                    "onTargetScoringAttempt": 1,
+                    "blockedScoringAttempt": 1,
+                    "goals": 1,
+                    "ballRecovery": 1,
+                    "unsuccessfulTouch": 3,
+                    "minutesPlayed": 75,
+                    "touches": 19,
+                    "rating": 7.2,
+                    "possessionLostCtrl": 5,
+                    "expectedGoals": 0.5434,
+                    "expectedGoalsOnTarget": 0.478,
+                    "expectedAssists": 0.0941477,
+                    "topSpeed": 32.02,
+                    "kilometersCovered": 7.66,
+                    "numberOfSprints": 14,
+                    "totalBallCarriesDistance": 98.374923796823,
+                    "ballCarriesCount": 10,
+                    "totalProgression": 40.488212218768,
+                    "bestBallCarryProgression": 19.46503818488,
+                    "totalProgressiveBallCarriesDistance": 21.334131245495,
+                    "progressiveBallCarriesCount": 1,
+                    "keyPass": 1,
+                    "ratingVersions": {
+                        "original": 7.2,
+                        "alternative": 7.4
+                    },
+                    "totalShots": 2,
+                    "shotValueNormalized": 0.36,
+                    "passValueNormalized": 0.24,
+                    "dribbleValueNormalized": 0.21,
+                    "defensiveValueNormalized": 0.13,
+                    "metersCoveredRunningKm": 0.88,
+                    "metersCoveredHighSpeedRunningKm": 0.44,
+                    "metersCoveredSprintingKm": 0.2,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Wanderson",
+                    "firstName": "Wanderson",
+                    "lastName": "Wanderson",
+                    "slug": "wanderson",
+                    "shortName": "Wanderson",
+                    "position": "M",
+                    "jerseyNumber": "94",
+                    "height": 175,
+                    "userCount": 2173,
+                    "gender": "M",
+                    "sofascoreId": "i3ufne",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 247483,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 781401600,
+                    "proposedMarketValueRaw": {
+                        "value": 2900000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0648\u0627\u0646\u062f\u0631\u0633\u0648\u0646",
+                            "bn": "\u0993\u09af\u09bc\u09be\u09a8\u09cd\u09a1\u09be\u09b0\u09b8\u09a8",
+                            "hi": "\u0935\u093e\u0902\u0921\u0930\u0938\u0928",
+                            "ru": "\u0423\u0430\u043d\u0434\u0435\u0440\u0441\u043e\u043d"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0648\u0627\u0646\u062f\u0631\u0633\u0648\u0646",
+                            "bn": "\u0993\u09af\u09bc\u09be\u09a8\u09cd\u09a1\u09be\u09b0\u09b8\u09a8",
+                            "hi": "\u0935\u093e\u0902\u0921\u0930\u0938\u0928",
+                            "ru": "\u0423\u0430\u043d\u0434\u0435\u0440\u0441\u043e\u043d"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 94,
+                "jerseyNumber": "94",
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 10,
+                    "accuratePass": 10,
+                    "totalLongBalls": 1,
+                    "accurateLongBalls": 1,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 2,
+                    "totalOwnHalfPasses": 2,
+                    "accurateOppositionHalfPasses": 8,
+                    "totalOppositionHalfPasses": 8,
+                    "totalCross": 1,
+                    "aerialLost": 1,
+                    "duelLost": 1,
+                    "duelWon": 2,
+                    "totalClearance": 1,
+                    "ballRecovery": 2,
+                    "totalTackle": 2,
+                    "wonTackle": 2,
+                    "totalOffside": 1,
+                    "minutesPlayed": 22,
+                    "touches": 14,
+                    "rating": 6.7,
+                    "possessionLostCtrl": 1,
+                    "expectedAssists": 0.00473389,
+                    "topSpeed": 32.09,
+                    "kilometersCovered": 2.98,
+                    "numberOfSprints": 6,
+                    "totalBallCarriesDistance": 40.367673500264,
+                    "ballCarriesCount": 6,
+                    "totalProgression": 15.899617649637,
+                    "bestBallCarryProgression": 15.567954372014,
+                    "totalProgressiveBallCarriesDistance": 17.782157799322,
+                    "progressiveBallCarriesCount": 1,
+                    "ratingVersions": {
+                        "original": 6.7,
+                        "alternative": 6.9
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": -0.03,
+                    "dribbleValueNormalized": 0,
+                    "defensiveValueNormalized": 0.16,
+                    "metersCoveredRunningKm": 0.31,
+                    "metersCoveredHighSpeedRunningKm": 0.18,
+                    "metersCoveredSprintingKm": 0.13,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Fagner",
+                    "slug": "fagner",
+                    "shortName": "Fagner",
+                    "position": "D",
+                    "jerseyNumber": "23",
+                    "height": 168,
+                    "userCount": 4239,
+                    "gender": "M",
+                    "sofascoreId": "Fagner",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 25554,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 613526400,
+                    "proposedMarketValueRaw": {
+                        "value": 195000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0641\u0627\u063a\u0646\u0631",
+                            "bn": "\u09ab\u09cd\u09af\u09be\u0997\u09a8\u09be\u09b0",
+                            "hi": "\u092b\u0917\u0928\u0930",
+                            "ru": "\u0424\u0430\u0433\u043d\u0435\u0440"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0641\u0627\u063a\u0646\u0631",
+                            "bn": "\u09ab\u09cd\u09af\u09be\u0997\u09a8\u09be\u09b0",
+                            "hi": "\u092b\u0917\u0928\u0930"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 23,
+                "jerseyNumber": "23",
+                "position": "D",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 5,
+                    "accuratePass": 5,
+                    "totalLongBalls": 2,
+                    "accurateLongBalls": 2,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 3,
+                    "totalOwnHalfPasses": 3,
+                    "accurateOppositionHalfPasses": 2,
+                    "totalOppositionHalfPasses": 2,
+                    "totalCross": 1,
+                    "duelLost": 1,
+                    "duelWon": 1,
+                    "totalContest": 2,
+                    "wonContest": 1,
+                    "totalClearance": 1,
+                    "unsuccessfulTouch": 1,
+                    "minutesPlayed": 15,
+                    "touches": 10,
+                    "rating": 7,
+                    "possessionLostCtrl": 3,
+                    "expectedAssists": 0.00117367,
+                    "topSpeed": 29.5,
+                    "kilometersCovered": 1.95,
+                    "numberOfSprints": 3,
+                    "totalBallCarriesDistance": 24.008643422106,
+                    "ballCarriesCount": 3,
+                    "totalProgression": 13.579806564329,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 7,
+                        "alternative": 6.8
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.11,
+                    "dribbleValueNormalized": -0.03,
+                    "defensiveValueNormalized": 0.13,
+                    "metersCoveredRunningKm": 0.21,
+                    "metersCoveredHighSpeedRunningKm": 0.1,
+                    "metersCoveredSprintingKm": 0.03,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Chico da Costa",
+                    "slug": "francisco-da-costa",
+                    "shortName": "Chico da Costa",
+                    "position": "F",
+                    "jerseyNumber": "91",
+                    "height": 184,
+                    "userCount": 2613,
+                    "gender": "M",
+                    "sofascoreId": "h68g9c",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 866847,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 799545600,
+                    "proposedMarketValueRaw": {
+                        "value": 1000000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0634\u064a\u0643\u0648 \u062f\u0627 \u0643\u0648\u0633\u062a\u0627",
+                            "ru": "\u0427\u0438\u043a\u043e \u0434\u0430 \u041a\u043e\u0441\u0442\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0634. \u062f\u0627 \u0643\u0648\u0633\u062a\u0627",
+                            "ru": "\u0427. \u041a\u043e\u0441\u0442\u0430"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 91,
+                "jerseyNumber": "91",
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 5,
+                    "accuratePass": 4,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 2,
+                    "totalOwnHalfPasses": 3,
+                    "accurateOppositionHalfPasses": 2,
+                    "totalOppositionHalfPasses": 2,
+                    "aerialWon": 1,
+                    "duelLost": 1,
+                    "duelWon": 1,
+                    "totalContest": 1,
+                    "totalClearance": 1,
+                    "ballRecovery": 1,
+                    "minutesPlayed": 15,
+                    "touches": 8,
+                    "rating": 6.4,
+                    "possessionLostCtrl": 2,
+                    "expectedAssists": 0.00782116,
+                    "topSpeed": 29.35,
+                    "kilometersCovered": 2.09,
+                    "numberOfSprints": 4,
+                    "totalBallCarriesDistance": 19.43017312283,
+                    "ballCarriesCount": 3,
+                    "totalProgression": 2.8474019702006,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.4,
+                        "alternative": 6.3
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": -0.02,
+                    "dribbleValueNormalized": 0.02,
+                    "defensiveValueNormalized": 0.16,
+                    "metersCoveredRunningKm": 0.23,
+                    "metersCoveredHighSpeedRunningKm": 0.1,
+                    "metersCoveredSprintingKm": 0.03,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Lucas Romero",
+                    "firstName": "Lucas",
+                    "lastName": "Romero",
+                    "slug": "lucas-romero",
+                    "shortName": "L. Romero",
+                    "position": "M",
+                    "jerseyNumber": "29",
+                    "height": 167,
+                    "userCount": 3583,
+                    "gender": "M",
+                    "sofascoreId": "cv2jvg",
+                    "country": {
+                        "alpha2": "AR",
+                        "alpha3": "ARG",
+                        "name": "Argentina",
+                        "slug": "argentina"
+                    },
+                    "id": 263477,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 766627200,
+                    "proposedMarketValueRaw": {
+                        "value": 2400000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0644\u0648\u0643\u0627\u0633 \u0631\u0648\u0645\u064a\u0631\u0648",
+                            "bn": "\u09b2\u09c1\u0995\u09be\u09b8 \u09b0\u09cb\u09ae\u09c7\u09b0\u09cb",
+                            "hi": "\u0932\u0941\u0915\u093e\u0938 \u0930\u094b\u092e\u0947\u0930\u094b",
+                            "ru": "\u041b\u0443\u043a\u0430\u0441 \u0420\u043e\u043c\u0435\u0440\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0644. \u0631\u0648\u0645\u064a\u0631\u0648",
+                            "bn": "\u098f\u09b2. \u09b0\u09cb\u09ae\u09c7\u09b0\u09cb",
+                            "hi": "\u090f\u0932. \u0930\u094b\u092e\u0947\u0930\u094b",
+                            "ru": "\u041b. \u0420\u043e\u043c\u0435\u0440\u043e"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 29,
+                "jerseyNumber": "29",
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 7,
+                    "accuratePass": 7,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 4,
+                    "totalOwnHalfPasses": 4,
+                    "accurateOppositionHalfPasses": 3,
+                    "totalOppositionHalfPasses": 3,
+                    "aerialLost": 1,
+                    "duelLost": 3,
+                    "duelWon": 1,
+                    "challengeLost": 1,
+                    "ballRecovery": 2,
+                    "totalTackle": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 8,
+                    "touches": 8,
+                    "rating": 6.6,
+                    "expectedAssists": 0.00354899,
+                    "topSpeed": 27.16,
+                    "kilometersCovered": 1.46,
+                    "numberOfSprints": 2,
+                    "totalBallCarriesDistance": 11.969868652539,
+                    "ballCarriesCount": 3,
+                    "totalProgression": 3.0380266542257,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.6,
+                        "alternative": 6.5
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.03,
+                    "dribbleValueNormalized": -0.11,
+                    "defensiveValueNormalized": -0.05,
+                    "metersCoveredRunningKm": 0.32,
+                    "metersCoveredHighSpeedRunningKm": 0.09,
+                    "metersCoveredSprintingKm": 0.01,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Bruno Rodrigues",
+                    "slug": "bruno-rodrigues",
+                    "shortName": "B. Rodrigues",
+                    "position": "F",
+                    "jerseyNumber": "9",
+                    "height": 177,
+                    "userCount": 3888,
+                    "gender": "M",
+                    "sofascoreId": "nsymmx",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 817650,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 857692800,
+                    "proposedMarketValueRaw": {
+                        "value": 1300000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0628\u0631\u0648\u0646\u0648 \u0631\u0648\u062f\u0631\u064a\u063a\u064a\u0632",
+                            "bn": "\u09ac\u09cd\u09b0\u09c1\u09a8\u09cb \u09b0\u09a6\u09cd\u09b0\u09bf\u0997\u09c7\u09b8",
+                            "hi": "\u092c\u094d\u0930\u0942\u0928\u094b \u0930\u094b\u0921\u094d\u0930\u093f\u0917\u094d\u0938",
+                            "ru": "\u0411\u0440\u0443\u043d\u043e \u0420\u043e\u0434\u0440\u0438\u0433\u0435\u0441"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0628. \u0631\u0648\u062f\u0631\u064a\u063a\u064a\u0632",
+                            "bn": "\u09ac\u09bf \u09b0\u09a6\u09cd\u09b0\u09bf\u0997\u09c7\u09b8",
+                            "hi": "\u092c\u0940. \u0930\u094b\u0921\u094d\u0930\u093f\u0917\u094d\u0938",
+                            "ru": "\u0411. \u0420\u043e\u0434\u0440\u0438\u0433\u0435\u0441"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 9,
+                "jerseyNumber": "9",
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 7,
+                    "accuratePass": 4,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 3,
+                    "totalOwnHalfPasses": 4,
+                    "accurateOppositionHalfPasses": 1,
+                    "totalOppositionHalfPasses": 3,
+                    "duelLost": 2,
+                    "duelWon": 1,
+                    "challengeLost": 1,
+                    "totalContest": 1,
+                    "ballRecovery": 3,
+                    "wasFouled": 1,
+                    "minutesPlayed": 8,
+                    "touches": 9,
+                    "rating": 6.4,
+                    "possessionLostCtrl": 4,
+                    "expectedAssists": 0.00257958,
+                    "topSpeed": 32.65,
+                    "kilometersCovered": 1.63,
+                    "numberOfSprints": 6,
+                    "totalBallCarriesDistance": 22.692733406032,
+                    "ballCarriesCount": 3,
+                    "totalProgression": -2.9984617337692,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.4,
+                        "alternative": 6.4
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": -0.11,
+                    "dribbleValueNormalized": -0.46,
+                    "defensiveValueNormalized": -0.06,
+                    "metersCoveredRunningKm": 0.3,
+                    "metersCoveredHighSpeedRunningKm": 0.11,
+                    "metersCoveredSprintingKm": 0.08,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Ot\u00e1vio Costa",
+                    "firstName": "Ot\u00e1vio Costa",
+                    "lastName": "Rezende Costa",
+                    "slug": "otavio-eleodoro-rezende-costa",
+                    "shortName": "Ot\u00e1vio",
+                    "position": "G",
+                    "jerseyNumber": "81",
+                    "height": 192,
+                    "userCount": 1885,
+                    "gender": "M",
+                    "sofascoreId": "wry5g9",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1589358,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1135641600,
+                    "proposedMarketValueRaw": {
+                        "value": 525000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0623\u0648\u062a\u0627\u0641\u064a\u0648 \u0643\u0648\u0633\u062a\u0627",
+                            "ru": "\u041e\u0442\u0430\u0432\u0438\u043e \u041a\u043e\u0441\u0442\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0623. \u0643\u0648\u0633\u062a\u0627"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 81,
+                "jerseyNumber": "81",
+                "position": "G",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Jonathan Jesus",
+                    "slug": "jonathan",
+                    "shortName": "J. Jesus",
+                    "position": "D",
+                    "jerseyNumber": "34",
+                    "height": 187,
+                    "userCount": 2154,
+                    "gender": "M",
+                    "sofascoreId": "wr9tqu",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1498670,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1085616000,
+                    "proposedMarketValueRaw": {
+                        "value": 7600000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u062c\u0648\u0646\u0627\u062b\u0627\u0646 \u062e\u064a\u0633\u0648\u0633",
+                            "ru": "\u0414\u0436\u043e\u043d\u0430\u0442\u0430\u043d \u0418\u0438\u0441\u0443\u0441"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u062c. \u062e\u064a\u0633\u0648\u0633",
+                            "ru": "\u0414. \u0418\u0438\u0441\u0443\u0441"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 34,
+                "jerseyNumber": "34",
+                "position": "D",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Kau\u00e3 Prates",
+                    "slug": "kaua-prates-de-almeida",
+                    "shortName": "K. Prates",
+                    "position": "D",
+                    "jerseyNumber": "36",
+                    "height": 182,
+                    "userCount": 2758,
+                    "gender": "M",
+                    "sofascoreId": "gw8nxp",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1887796,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1218412800,
+                    "proposedMarketValueRaw": {
+                        "value": 10300000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u0648\u0627\u0646 \u0628\u0631\u0627\u062a\u064a\u0633",
+                            "ru": "\u041a\u0430\u0443\u00e3 \u041f\u0440\u0430\u0442\u0435\u0441"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643. \u0628\u0631\u0627\u062a\u064a\u0633",
+                            "ru": "\u041a. \u041f\u0440\u0430\u0442\u0435\u0441"
+                        }
+                    }
+                },
+                "teamId": 2673,
+                "shirtNumber": 36,
+                "jerseyNumber": "36",
+                "position": "D",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Jo\u00e3o Marcelo",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "joao-marcelo",
+                    "shortName": "J. Marcelo",
+                    "position": "D",
+                    "jerseyNumber": "43",
+                    "height": 189,
+                    "userCount": 1961,
+                    "gender": "M",
+                    "sofascoreId": "wrrg5w",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 978638,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 960854400,
+                    "proposedMarketValueRaw": {
+                        "value": 3100000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u062c\u0648\u0627\u0648 \u0645\u0627\u0631\u0633\u064a\u0644\u0648",
+                            "ru": "\u0416\u043e\u0430\u043e \u041c\u0430\u0440\u0441\u0435\u043b\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u062c. \u0645\u0627\u0631\u0633\u064a\u0644\u0648",
+                            "ru": "\u0416. \u041c\u0430\u0440\u0441\u0435\u043b\u043e"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 43,
+                "jerseyNumber": "43",
+                "position": "D",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Lucas Silva",
+                    "firstName": "Lucas",
+                    "lastName": "Silva",
+                    "slug": "lucas-silva",
+                    "shortName": "L. Silva",
+                    "position": "M",
+                    "jerseyNumber": "16",
+                    "height": 182,
+                    "userCount": 2943,
+                    "gender": "M",
+                    "sofascoreId": "6rjesh",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 245159,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 729820800,
+                    "proposedMarketValueRaw": {
+                        "value": 405000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0644\u0648\u0643\u0627\u0633 \u0633\u064a\u0644\u0641\u0627",
+                            "bn": "\u09b2\u09c1\u0995\u09be\u09b8 \u09b8\u09bf\u09b2\u09ad\u09be",
+                            "hi": "\u0932\u0941\u0915\u093e\u0938 \u0938\u093f\u0932\u094d\u0935\u093e",
+                            "ru": "\u041b\u0443\u043a\u0430\u0441 \u0421\u0438\u043b\u0432\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0644. \u0633\u064a\u0644\u0641\u0627",
+                            "bn": "\u098f\u09b2. \u09b8\u09bf\u09b2\u09ad\u09be",
+                            "hi": "\u090f\u0932. \u0938\u093f\u0932\u094d\u0935\u093e",
+                            "ru": "\u041b. \u0421\u0438\u043b\u0432\u0430"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 16,
+                "jerseyNumber": "16",
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "N\u00e9iser Villarreal",
+                    "firstName": "N\u00e9yser Villarreal",
+                    "slug": "neiser-villarreal",
+                    "shortName": "N. Villarreal",
+                    "position": "F",
+                    "jerseyNumber": "22",
+                    "height": 186,
+                    "userCount": 5112,
+                    "gender": "M",
+                    "sofascoreId": "iw74kd",
+                    "country": {
+                        "alpha2": "CO",
+                        "alpha3": "COL",
+                        "name": "Colombia",
+                        "slug": "colombia"
+                    },
+                    "id": 1539599,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1114214400,
+                    "proposedMarketValueRaw": {
+                        "value": 3900000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0646\u064a\u0633\u064a\u0631 \u0641\u064a\u0644\u0627\u0631\u064a\u0627\u0644",
+                            "ru": "\u041d\u0435\u0439\u0441\u0435\u0440 \u0412\u0438\u043b\u044c\u044f\u0440\u0440\u0435\u0430\u043b"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0646. \u0641\u064a\u0644\u0627\u0631\u064a\u0627\u0644",
+                            "ru": "\u041d. \u0412\u0438\u043b\u044c\u044f\u0440\u0440\u0435\u0430\u043b"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 22,
+                "jerseyNumber": "22",
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Kaique Kenji",
+                    "slug": "kenji",
+                    "shortName": "K. Kenji",
+                    "position": "F",
+                    "jerseyNumber": "70",
+                    "height": 178,
+                    "userCount": 1837,
+                    "gender": "M",
+                    "sofascoreId": "iw2u59",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1647579,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1138492800,
+                    "proposedMarketValueRaw": {
+                        "value": 3300000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u064a\u0643 \u0643\u064a\u0646\u062c\u064a",
+                            "ru": "\u041a\u0430\u0439\u043a\u0435 \u041a\u0435\u043d\u0434\u0436\u0438"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643. \u0643\u064a\u0646\u062c\u064a",
+                            "ru": "\u041a. \u041a\u0435\u043d\u0434\u0436\u0438"
+                        }
+                    }
+                },
+                "teamId": 1954,
+                "shirtNumber": 70,
+                "jerseyNumber": "70",
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            }
+        ],
+        "supportStaff": [],
+        "formation": "4-2-3-1",
+        "playerColor": {
+            "primary": "0455a3",
+            "number": "ffffff",
+            "outline": "0455a3",
+            "fancyNumber": "ffffff"
+        },
+        "goalkeeperColor": {
+            "primary": "d9e401",
+            "number": "ffffff",
+            "outline": "d9e401",
+            "fancyNumber": "222226"
+        },
+        "missingPlayers": [
+            {
+                "player": {
+                    "name": "C\u00e1ssio",
+                    "slug": "cassio",
+                    "shortName": "C\u00e1ssio",
+                    "position": "G",
+                    "jerseyNumber": "1",
+                    "height": 195,
+                    "userCount": 5184,
+                    "gender": "M",
+                    "sofascoreId": "rcassio12",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 27756,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 549936000,
+                    "proposedMarketValueRaw": {
+                        "value": 240000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u0633\u064a\u0648",
+                            "bn": "\u0995\u09cd\u09af\u09be\u09b8\u09bf\u0993",
+                            "hi": "\u0915\u0948\u0938\u093f\u092f\u094b",
+                            "ru": "\u041a\u0430\u0441\u0441\u0438\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643\u0627\u0633\u064a\u0648",
+                            "bn": "\u0995\u09cd\u09af\u09be\u09b8\u09bf\u0993",
+                            "hi": "\u0915\u0948\u0938\u093f\u092f\u094b",
+                            "ru": "\u041a\u0430\u0441\u0441\u0438\u043e"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Knee Injury",
+                "externalType": 72
+            },
+            {
+                "player": {
+                    "name": "Luis Sinisterra",
+                    "slug": "luis-sinisterra",
+                    "shortName": "L. Sinisterra",
+                    "position": "F",
+                    "jerseyNumber": "17",
+                    "height": 176,
+                    "userCount": 7417,
+                    "gender": "M",
+                    "sofascoreId": "Sinisterra29",
+                    "country": {
+                        "alpha2": "CO",
+                        "alpha3": "COL",
+                        "name": "Colombia",
+                        "slug": "colombia"
+                    },
+                    "id": 836070,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 929577600,
+                    "proposedMarketValueRaw": {
+                        "value": 10700000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0644\u0648\u064a\u0633 \u0633\u064a\u0646\u064a\u0633\u062a\u064a\u0631\u0627",
+                            "bn": "\u09b2\u09c1\u0987\u09b8 \u09b8\u09bf\u09a8\u09bf\u09b8\u09cd\u099f\u09c7\u09b0\u09be",
+                            "hi": "\u0932\u0941\u0907\u0938 \u0938\u093f\u0928\u093f\u0938\u094d\u091f\u0930\u094d\u0930\u093e",
+                            "ru": "\u041b\u0443\u0438\u0441 \u0421\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0644. \u0633\u064a\u0646\u064a\u0633\u062a\u064a\u0631\u0627",
+                            "bn": "\u098f\u09b2. \u09b8\u09bf\u09a8\u09bf\u09b8\u09cd\u099f\u09c7\u09b0\u09be",
+                            "hi": "\u090f\u0932. \u0938\u093f\u0928\u093f\u0938\u094d\u091f\u0930\u094d\u0930\u093e",
+                            "ru": "\u041b. \u0421\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0430"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "externalType": 5
+            },
+            {
+                "player": {
+                    "name": "Marquinhos",
+                    "firstName": "Marquinhos",
+                    "slug": "marquinhos",
+                    "shortName": "Marquinhos",
+                    "position": "M",
+                    "jerseyNumber": "11",
+                    "height": 175,
+                    "userCount": 4519,
+                    "gender": "M",
+                    "sofascoreId": "_marquinhos011",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1116954,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1049673600,
+                    "proposedMarketValueRaw": {
+                        "value": 2400000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0645\u0627\u0631\u0643\u064a\u0646\u064a\u0648\u0633",
+                            "bn": "\u09ae\u09be\u09b0\u0995\u09c1\u0987\u09a8\u09b9\u09cb\u09b8",
+                            "hi": "\u092e\u093e\u0930\u094d\u0915\u094d\u0935\u093f\u0928\u094d\u0939\u094b\u0938",
+                            "ru": "\u041c\u0430\u0440\u043a\u0438\u043d\u044c\u043e\u0441"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0645\u0627\u0631\u0643\u064a\u0646\u064a\u0648\u0633",
+                            "bn": "\u09ae\u09be\u09b0\u0995\u09c1\u0987\u09a8\u09b9\u09cb\u09b8",
+                            "hi": "\u092e\u093e\u0930\u094d\u0915\u094d\u0935\u093f\u0928\u094d\u0939\u094b\u0938",
+                            "ru": "\u041c\u0430\u0440\u043a\u0438\u043d\u044c\u043e\u0441"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "externalType": 5
+            },
+            {
+                "player": {
+                    "name": "Kaio Jorge",
+                    "firstName": "Kaio Jorge",
+                    "lastName": "Kaio Jorge",
+                    "slug": "kaio-jorge",
+                    "shortName": "K. Jorge",
+                    "position": "F",
+                    "jerseyNumber": "19",
+                    "height": 182,
+                    "userCount": 30993,
+                    "gender": "M",
+                    "sofascoreId": "kaiojorge",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 954888,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1011830400,
+                    "proposedMarketValueRaw": {
+                        "value": 24000000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u064a\u0648 \u062c\u0648\u0631\u062c",
+                            "bn": "\u0995\u09be\u0987\u0993 \u099c\u09b0\u09cd\u099c",
+                            "hi": "\u0915\u093e\u0907\u0913 \u091c\u0949\u0930\u094d\u091c",
+                            "ru": "\u041a\u0430\u0439\u043e \u0416\u043e\u0440\u0436\u0435"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643. \u062c\u0648\u0631\u062c",
+                            "bn": "\u0995\u09c7. \u099c\u09b0\u09cd\u099c",
+                            "hi": "\u0915\u0947. \u091c\u0949\u0930\u094d\u091c",
+                            "ru": "\u041a. \u0416\u043e\u0440\u0436\u0435"
+                        }
+                    }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "externalType": 5
+            }
+        ]
+    },
+    "away": {
+        "players": [
+            {
+                "player": {
+                    "name": "Lucas Arcanjo",
+                    "slug": "lucas-arcanjo",
+                    "shortName": "L. Arcanjo",
+                    "position": "G",
+                    "jerseyNumber": "1",
+                    "height": 190,
+                    "userCount": 1169,
+                    "gender": "M",
+                    "sofascoreId": "p99pkk",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 982558,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 902534400,
+                    "proposedMarketValueRaw": {
+                        "value": 2700000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0644\u0648\u0643\u0627\u0633 \u0623\u0631\u0643\u0627\u0646\u062c\u0648",
+                            "ru": "\u041b\u0443\u043a\u0430\u0441 \u0410\u0440\u043a\u0430\u043d\u0436\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0644. \u0623\u0631\u0643\u0627\u0646\u062c\u0648",
+                            "ru": "\u041b. \u0410\u0440\u043a\u0430\u043d\u0436\u043e"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 1,
+                "jerseyNumber": "1",
+                "position": "G",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 23,
+                    "accuratePass": 15,
+                    "totalLongBalls": 13,
+                    "accurateLongBalls": 5,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 10,
+                    "totalOwnHalfPasses": 11,
+                    "accurateOppositionHalfPasses": 5,
+                    "totalOppositionHalfPasses": 12,
+                    "totalClearance": 1,
+                    "ballRecovery": 7,
+                    "savedShotsFromInsideTheBox": 1,
+                    "saves": 2,
+                    "totalKeeperSweeper": 2,
+                    "accurateKeeperSweeper": 2,
+                    "minutesPlayed": 90,
+                    "touches": 30,
+                    "rating": 5.4,
+                    "possessionLostCtrl": 8,
+                    "expectedAssists": 0.00117872,
+                    "totalBallCarriesDistance": 48.910533834849,
+                    "ballCarriesCount": 7,
+                    "totalProgression": 21.816707874335,
+                    "progressiveBallCarriesCount": 0,
+                    "keeperSaveValue": 0.1124,
+                    "ratingVersions": {
+                        "original": 5.4,
+                        "alternative": 6.3
+                    },
+                    "totalShots": 0,
+                    "goalsPrevented": -1.663,
+                    "passValueNormalized": 0.05,
+                    "dribbleValueNormalized": 0.02,
+                    "defensiveValueNormalized": -0.27,
+                    "goalkeeperValueNormalized": -0.92,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Nathan Mendes",
+                    "firstName": "Nathan",
+                    "slug": "nathan-mendes",
+                    "shortName": "N. Mendes",
+                    "position": "D",
+                    "jerseyNumber": "45",
+                    "height": 182,
+                    "userCount": 456,
+                    "gender": "M",
+                    "sofascoreId": "iwvd3y",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1116955,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1029715200,
+                    "proposedMarketValueRaw": {
+                        "value": 1500000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0646\u0627\u062b\u0627\u0646 \u0645\u064a\u0646\u062f\u0633",
+                            "ru": "\u041d\u0430\u0442\u0430\u043d \u041c\u0435\u043d\u0434\u0435\u0441"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0646. \u0645\u064a\u0646\u062f\u0633",
+                            "ru": "\u041d. \u041c\u0435\u043d\u0434\u0435\u0441"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 45,
+                "jerseyNumber": "45",
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 40,
+                    "accuratePass": 34,
+                    "totalLongBalls": 2,
+                    "accurateLongBalls": 2,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 20,
+                    "totalOwnHalfPasses": 20,
+                    "accurateOppositionHalfPasses": 14,
+                    "totalOppositionHalfPasses": 20,
+                    "duelLost": 2,
+                    "duelWon": 3,
+                    "totalContest": 2,
+                    "wonContest": 1,
+                    "totalClearance": 2,
+                    "ballRecovery": 4,
+                    "totalTackle": 2,
+                    "unsuccessfulTouch": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 90,
+                    "touches": 53,
+                    "rating": 6.1,
+                    "possessionLostCtrl": 8,
+                    "expectedAssists": 0.0142797,
+                    "topSpeed": 31.18,
+                    "kilometersCovered": 9.03,
+                    "numberOfSprints": 17,
+                    "totalBallCarriesDistance": 125.67553127512,
+                    "ballCarriesCount": 12,
+                    "totalProgression": 76.189136071973,
+                    "bestBallCarryProgression": 40.718451396991,
+                    "totalProgressiveBallCarriesDistance": 58.326753860883,
+                    "progressiveBallCarriesCount": 2,
+                    "ratingVersions": {
+                        "original": 6.1,
+                        "alternative": 6.3
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.1,
+                    "dribbleValueNormalized": 0.06,
+                    "defensiveValueNormalized": -0.48,
+                    "metersCoveredRunningKm": 0.9,
+                    "metersCoveredHighSpeedRunningKm": 0.51,
+                    "metersCoveredSprintingKm": 0.18,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Camutanga",
+                    "slug": "camutanga",
+                    "shortName": "Camutanga",
+                    "position": "D",
+                    "jerseyNumber": "4",
+                    "height": 189,
+                    "userCount": 567,
+                    "gender": "M",
+                    "sofascoreId": "iw83ba",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 931759,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 749088000,
+                    "proposedMarketValueRaw": {
+                        "value": 260000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u0645\u0648\u062a\u0646\u063a\u0627",
+                            "ru": "\u041a\u0430\u043c\u0443\u043d\u0442\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643\u0627\u0645\u0648\u062a\u0646\u063a\u0627",
+                            "ru": "\u041a\u0430\u043c\u0443\u043d\u0442\u0430"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 4,
+                "jerseyNumber": "4",
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 27,
+                    "accuratePass": 25,
+                    "totalLongBalls": 2,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 20,
+                    "totalOwnHalfPasses": 20,
+                    "accurateOppositionHalfPasses": 5,
+                    "totalOppositionHalfPasses": 7,
+                    "aerialWon": 1,
+                    "duelWon": 3,
+                    "totalClearance": 2,
+                    "interceptionWon": 2,
+                    "ballRecovery": 2,
+                    "totalTackle": 2,
+                    "wonTackle": 2,
+                    "minutesPlayed": 90,
+                    "touches": 34,
+                    "rating": 6.1,
+                    "possessionLostCtrl": 2,
+                    "expectedAssists": 0.00130338,
+                    "topSpeed": 29.02,
+                    "kilometersCovered": 8.23,
+                    "numberOfSprints": 6,
+                    "totalBallCarriesDistance": 85.76462096851,
+                    "ballCarriesCount": 9,
+                    "totalProgression": -26.009051412952,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.1,
+                        "alternative": 6.5
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.03,
+                    "dribbleValueNormalized": 0,
+                    "defensiveValueNormalized": -0.44,
+                    "metersCoveredRunningKm": 0.73,
+                    "metersCoveredHighSpeedRunningKm": 0.39,
+                    "metersCoveredSprintingKm": 0.07,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Cac\u00e1",
+                    "slug": "caca",
+                    "shortName": "Cac\u00e1",
+                    "position": "D",
+                    "jerseyNumber": "25",
+                    "height": 185,
+                    "userCount": 3916,
+                    "gender": "M",
+                    "sofascoreId": "snuzmd",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 929200,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 924998400,
+                    "proposedMarketValueRaw": {
+                        "value": 1500000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u0643\u0627",
+                            "bn": "\u0995\u09cd\u09af\u09be\u0995\u09be",
+                            "hi": "\u0915\u093e\u0915\u093e",
+                            "ru": "\u041a\u0430\u043a\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643\u0627\u0643\u0627",
+                            "bn": "\u0995\u09cd\u09af\u09be\u0995\u09be",
+                            "hi": "\u0915\u093e\u0915\u093e",
+                            "ru": "\u041a\u0430\u043a\u0430"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 25,
+                "jerseyNumber": "25",
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 38,
+                    "accuratePass": 34,
+                    "totalLongBalls": 3,
+                    "accurateLongBalls": 2,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 22,
+                    "totalOwnHalfPasses": 24,
+                    "accurateOppositionHalfPasses": 12,
+                    "totalOppositionHalfPasses": 14,
+                    "aerialLost": 3,
+                    "aerialWon": 1,
+                    "duelLost": 6,
+                    "duelWon": 1,
+                    "totalContest": 1,
+                    "blockedScoringAttempt": 1,
+                    "totalClearance": 2,
+                    "outfielderBlock": 1,
+                    "ballRecovery": 4,
+                    "unsuccessfulTouch": 3,
+                    "fouls": 2,
+                    "minutesPlayed": 90,
+                    "touches": 46,
+                    "rating": 5.8,
+                    "possessionLostCtrl": 8,
+                    "expectedGoals": 0.0315,
+                    "expectedAssists": 0.00351172,
+                    "topSpeed": 31.89,
+                    "kilometersCovered": 8.71,
+                    "numberOfSprints": 16,
+                    "totalBallCarriesDistance": 158.66638171214,
+                    "ballCarriesCount": 18,
+                    "totalProgression": 66.164137357666,
+                    "bestBallCarryProgression": 27.434006096684,
+                    "totalProgressiveBallCarriesDistance": 29.761407493598,
+                    "progressiveBallCarriesCount": 1,
+                    "ratingVersions": {
+                        "original": 5.8,
+                        "alternative": 6
+                    },
+                    "totalShots": 1,
+                    "shotValueNormalized": 0,
+                    "passValueNormalized": 0.06,
+                    "dribbleValueNormalized": 0.05,
+                    "defensiveValueNormalized": -0.35,
+                    "metersCoveredRunningKm": 0.82,
+                    "metersCoveredHighSpeedRunningKm": 0.34,
+                    "metersCoveredSprintingKm": 0.19,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Ramon",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "ramon",
+                    "shortName": "Ramon",
+                    "position": "D",
+                    "jerseyNumber": "13",
+                    "height": 176,
+                    "userCount": 1058,
+                    "gender": "M",
+                    "sofascoreId": "b77drw",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 980761,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 984355200,
+                    "proposedMarketValueRaw": {
+                        "value": 2200000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0631\u0627\u0645\u0648\u0646",
+                            "bn": "\u09b0\u09ae\u09a8",
+                            "hi": "\u0930\u0947\u092e\u0928",
+                            "ru": "\u0420\u0430\u043c\u043e\u043d"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0631\u0627\u0645\u0648\u0646",
+                            "bn": "\u09b0\u09ae\u09a8",
+                            "hi": "\u0930\u0947\u092e\u0928"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 13,
+                "jerseyNumber": "13",
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 42,
+                    "accuratePass": 32,
+                    "totalLongBalls": 4,
+                    "accurateLongBalls": 1,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 12,
+                    "totalOwnHalfPasses": 16,
+                    "accurateOppositionHalfPasses": 20,
+                    "totalOppositionHalfPasses": 26,
+                    "totalCross": 7,
+                    "accurateCross": 2,
+                    "aerialWon": 1,
+                    "duelLost": 3,
+                    "duelWon": 3,
+                    "challengeLost": 1,
+                    "totalContest": 1,
+                    "shotOffTarget": 1,
+                    "totalClearance": 3,
+                    "ballRecovery": 4,
+                    "totalTackle": 1,
+                    "unsuccessfulTouch": 2,
+                    "wasFouled": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 90,
+                    "touches": 70,
+                    "rating": 5.7,
+                    "possessionLostCtrl": 23,
+                    "expectedGoals": 0.0461,
+                    "expectedAssists": 0.028566,
+                    "topSpeed": 33.07,
+                    "kilometersCovered": 9.06,
+                    "numberOfSprints": 19,
+                    "totalBallCarriesDistance": 275.26111999801,
+                    "ballCarriesCount": 22,
+                    "totalProgression": 144.09103470969,
+                    "bestBallCarryProgression": 24.30683206373,
+                    "totalProgressiveBallCarriesDistance": 121.10872606402,
+                    "progressiveBallCarriesCount": 6,
+                    "keyPass": 1,
+                    "ratingVersions": {
+                        "original": 5.7,
+                        "alternative": 6.2
+                    },
+                    "totalShots": 1,
+                    "shotValueNormalized": -0.15,
+                    "passValueNormalized": -0.1,
+                    "dribbleValueNormalized": 0.28,
+                    "defensiveValueNormalized": -0.61,
+                    "metersCoveredRunningKm": 0.92,
+                    "metersCoveredHighSpeedRunningKm": 0.49,
+                    "metersCoveredSprintingKm": 0.26,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Emmanuel Mart\u00ednez",
+                    "firstName": "Emmanuel",
+                    "lastName": "Martinez",
+                    "slug": "emmanuel-martinez",
+                    "shortName": "E. Martinez",
+                    "position": "M",
+                    "jerseyNumber": "6",
+                    "height": 177,
+                    "userCount": 779,
+                    "gender": "M",
+                    "sofascoreId": "eh4be8",
+                    "country": {
+                        "alpha2": "AR",
+                        "alpha3": "ARG",
+                        "name": "Argentina",
+                        "slug": "argentina"
+                    },
+                    "id": 794312,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 770688000,
+                    "proposedMarketValueRaw": {
+                        "value": 1300000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0625\u064a\u0645\u0627\u0646\u0648\u064a\u0644 \u0645\u0627\u0631\u062a\u064a\u0646\u064a\u0632",
+                            "ru": "\u042d\u043c\u043c\u0430\u043d\u0443\u044d\u043b\u044c \u041c\u0430\u0440\u0442\u0438\u043d\u0435\u0441"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0625. \u0645\u0627\u0631\u062a\u064a\u0646\u064a\u0632",
+                            "ru": "\u042d. \u041c\u0430\u0440\u0442\u0438\u043d\u0435\u0441"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 6,
+                "jerseyNumber": "6",
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 15,
+                    "accuratePass": 12,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 7,
+                    "totalOwnHalfPasses": 8,
+                    "accurateOppositionHalfPasses": 5,
+                    "totalOppositionHalfPasses": 7,
+                    "aerialWon": 1,
+                    "duelLost": 2,
+                    "duelWon": 3,
+                    "outfielderBlock": 1,
+                    "ballRecovery": 4,
+                    "unsuccessfulTouch": 1,
+                    "wasFouled": 2,
+                    "fouls": 2,
+                    "minutesPlayed": 45,
+                    "touches": 20,
+                    "rating": 6.3,
+                    "possessionLostCtrl": 4,
+                    "expectedAssists": 0.00225934,
+                    "topSpeed": 32.46,
+                    "kilometersCovered": 4.99,
+                    "numberOfSprints": 6,
+                    "totalBallCarriesDistance": 37.376102796161,
+                    "ballCarriesCount": 5,
+                    "totalProgression": -15.616323914521,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.3,
+                        "alternative": 6.3
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.01,
+                    "dribbleValueNormalized": 0.03,
+                    "defensiveValueNormalized": -0.14,
+                    "metersCoveredRunningKm": 0.64,
+                    "metersCoveredHighSpeedRunningKm": 0.2,
+                    "metersCoveredSprintingKm": 0.1,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Gabriel Baralhas",
+                    "slug": "gabriel-baralhas",
+                    "shortName": "G. Baralhas",
+                    "position": "M",
+                    "jerseyNumber": "44",
+                    "height": 178,
+                    "userCount": 1112,
+                    "gender": "M",
+                    "sofascoreId": "iii8de",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 922575,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 907977600,
+                    "proposedMarketValueRaw": {
+                        "value": 2400000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u063a\u0627\u0628\u0631\u064a\u064a\u0644 \u0628\u0627\u0631\u0627\u0644\u0647\u0627\u0633",
+                            "ru": "\u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c \u0411\u0430\u0440\u0430\u043b\u0430\u0448"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u063a. \u0628\u0627\u0631\u0627\u0644\u0647\u0627\u0633",
+                            "ru": "\u0413. \u0411\u0430\u0440\u0430\u043b\u0430\u0448"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 44,
+                "jerseyNumber": "44",
+                "position": "M",
+                "substitute": false,
+                "captain": true,
+                "statistics": {
+                    "totalPass": 40,
+                    "accuratePass": 33,
+                    "totalLongBalls": 7,
+                    "accurateLongBalls": 4,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 17,
+                    "totalOwnHalfPasses": 19,
+                    "accurateOppositionHalfPasses": 16,
+                    "totalOppositionHalfPasses": 21,
+                    "totalCross": 2,
+                    "accurateCross": 1,
+                    "aerialLost": 1,
+                    "duelLost": 4,
+                    "duelWon": 4,
+                    "dispossessed": 1,
+                    "totalContest": 1,
+                    "wonContest": 1,
+                    "interceptionWon": 2,
+                    "ballRecovery": 2,
+                    "totalTackle": 1,
+                    "wonTackle": 1,
+                    "unsuccessfulTouch": 2,
+                    "wasFouled": 2,
+                    "fouls": 2,
+                    "minutesPlayed": 90,
+                    "touches": 51,
+                    "rating": 6.5,
+                    "possessionLostCtrl": 11,
+                    "expectedAssists": 0.046692,
+                    "topSpeed": 31.8,
+                    "kilometersCovered": 9.98,
+                    "numberOfSprints": 19,
+                    "totalBallCarriesDistance": 91.185664155973,
+                    "ballCarriesCount": 11,
+                    "totalProgression": 25.520437309231,
+                    "progressiveBallCarriesCount": 0,
+                    "keyPass": 1,
+                    "ratingVersions": {
+                        "original": 6.5,
+                        "alternative": 6.6
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.14,
+                    "dribbleValueNormalized": 0.03,
+                    "defensiveValueNormalized": -0.14,
+                    "metersCoveredRunningKm": 1.47,
+                    "metersCoveredHighSpeedRunningKm": 0.47,
+                    "metersCoveredSprintingKm": 0.23,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Erick",
+                    "firstName": "Erick",
+                    "lastName": "Erick",
+                    "slug": "erick",
+                    "shortName": "Erick",
+                    "position": "M",
+                    "jerseyNumber": "33",
+                    "height": 173,
+                    "userCount": 2171,
+                    "gender": "M",
+                    "sofascoreId": "rrsrjm",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 895650,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 881712000,
+                    "proposedMarketValueRaw": {
+                        "value": 2700000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0625\u0631\u064a\u0643",
+                            "bn": "\u098f\u09b0\u09bf\u0995",
+                            "hi": "\u090f\u0930\u093f\u0915",
+                            "ru": "\u042d\u0440\u0438\u043a"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0625\u0631\u064a\u0643",
+                            "bn": "\u098f\u09b0\u09bf\u0995",
+                            "hi": "\u090f\u0930\u093f\u0915"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 33,
+                "jerseyNumber": "33",
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 39,
+                    "accuratePass": 34,
+                    "totalLongBalls": 5,
+                    "accurateLongBalls": 3,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 21,
+                    "totalOwnHalfPasses": 24,
+                    "accurateOppositionHalfPasses": 13,
+                    "totalOppositionHalfPasses": 15,
+                    "duelLost": 2,
+                    "duelWon": 7,
+                    "dispossessed": 1,
+                    "totalContest": 1,
+                    "wonContest": 1,
+                    "ballRecovery": 6,
+                    "unsuccessfulTouch": 3,
+                    "wasFouled": 6,
+                    "fouls": 1,
+                    "minutesPlayed": 82,
+                    "touches": 50,
+                    "rating": 7,
+                    "possessionLostCtrl": 9,
+                    "expectedAssists": 0.016857,
+                    "topSpeed": 27.14,
+                    "kilometersCovered": 8.64,
+                    "numberOfSprints": 4,
+                    "totalBallCarriesDistance": 127.83448240954,
+                    "ballCarriesCount": 17,
+                    "totalProgression": 49.797040424503,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 7,
+                        "alternative": 6.6
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.15,
+                    "dribbleValueNormalized": 0.13,
+                    "defensiveValueNormalized": -0.14,
+                    "metersCoveredRunningKm": 1.13,
+                    "metersCoveredHighSpeedRunningKm": 0.36,
+                    "metersCoveredSprintingKm": 0.03,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Matheuzinho",
+                    "firstName": "Matheus",
+                    "lastName": "Matheuzinho",
+                    "slug": "matheuzinho",
+                    "shortName": "Matheuzinho",
+                    "position": "M",
+                    "jerseyNumber": "10",
+                    "height": 165,
+                    "userCount": 1800,
+                    "gender": "M",
+                    "sofascoreId": "r8h9gm",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 795266,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 877046400,
+                    "proposedMarketValueRaw": {
+                        "value": 3100000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0645\u0627\u062b\u064a\u0648\u0632\u064a\u0646\u064a\u0648",
+                            "bn": "\u09ae\u09cd\u09af\u09be\u09a5\u09c7\u0989\u099c\u09bf\u09a8\u09b9\u09cb",
+                            "hi": "\u092e\u0948\u0925\u094d\u092f\u0942\u091c\u093c\u093f\u0928\u094d\u0939\u094b",
+                            "ru": "\u041c\u0430\u0442\u0435\u0437\u0438\u043d\u044c\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0645\u0627\u062b\u064a\u0648\u0632\u064a\u0646\u064a\u0648",
+                            "bn": "\u09ae\u09cd\u09af\u09be\u09a5\u09c7\u0989\u099c\u09bf\u09a8\u09b9\u09cb",
+                            "hi": "\u092e\u0948\u0925\u094d\u092f\u0942\u091c\u093c\u093f\u0928\u094d\u0939\u094b",
+                            "ru": "\u041c\u0430\u0442\u0435\u0437\u0438\u043d\u044c\u043e"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 10,
+                "jerseyNumber": "10",
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 9,
+                    "accuratePass": 7,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 1,
+                    "totalOwnHalfPasses": 1,
+                    "accurateOppositionHalfPasses": 6,
+                    "totalOppositionHalfPasses": 8,
+                    "totalCross": 1,
+                    "duelLost": 3,
+                    "dispossessed": 3,
+                    "unsuccessfulTouch": 1,
+                    "minutesPlayed": 45,
+                    "touches": 16,
+                    "rating": 6.1,
+                    "possessionLostCtrl": 7,
+                    "expectedAssists": 0.187301,
+                    "topSpeed": 31,
+                    "kilometersCovered": 4.07,
+                    "numberOfSprints": 4,
+                    "totalBallCarriesDistance": 24.483284358557,
+                    "ballCarriesCount": 3,
+                    "totalProgression": 2.1185515690335,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.1,
+                        "alternative": 6.1
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.12,
+                    "dribbleValueNormalized": -0.62,
+                    "defensiveValueNormalized": -0.17,
+                    "metersCoveredRunningKm": 0.36,
+                    "metersCoveredHighSpeedRunningKm": 0.18,
+                    "metersCoveredSprintingKm": 0.03,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Aitor Cantalapiedra",
+                    "firstName": "Aitor",
+                    "lastName": "Cantalapiedra",
+                    "slug": "aitor-cantalapiedra",
+                    "shortName": "A. Cantalapiedra",
+                    "position": "M",
+                    "jerseyNumber": "10",
+                    "height": 178,
+                    "userCount": 997,
+                    "gender": "M",
+                    "sofascoreId": "x3w4pt",
+                    "country": {
+                        "alpha2": "ES",
+                        "alpha3": "ESP",
+                        "name": "Spain",
+                        "slug": "spain"
+                    },
+                    "id": 823831,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 823910400,
+                    "proposedMarketValueRaw": {
+                        "value": 1700000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0623\u064a\u062a\u0648\u0631 \u0643\u0627\u0646\u062a\u0627\u0644\u0627\u0628\u064a\u064a\u062f\u0631\u0627",
+                            "bn": "\u0985\u09cd\u09af\u09be\u099f\u09bf\u099f\u09b0 \u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be\u09b2\u09be\u09aa\u09bf\u09af\u09bc\u09c7\u09a1\u09cd\u09b0\u09be",
+                            "hi": "\u090f\u091f\u094b\u0930 \u0915\u0948\u0902\u091f\u093e\u0932\u0948\u092a\u0940\u0921\u094d\u0930\u093e",
+                            "ru": "\u0410\u0438\u0442\u043e\u0440 \u041a\u0430\u043d\u0442\u0430\u043b\u0430\u043f\u044c\u0435\u0434\u0440\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0623. \u0643\u0627\u0646\u062a\u0627\u0644\u0627\u0628\u064a\u064a\u062f\u0631\u0627",
+                            "bn": "\u098f. \u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be\u09b2\u09be\u09aa\u09bf\u09af\u09bc\u09c7\u09a1\u09cd\u09b0\u09be",
+                            "hi": "\u090f. \u0915\u0948\u0902\u091f\u093e\u0932\u0948\u092a\u0940\u0921\u094d\u0930\u093e",
+                            "ru": "\u0410. \u041a\u0430\u043d\u0442\u0430\u043b\u0430\u043f\u044c\u0435\u0434\u0440\u0430"
+                        }
+                    }
+                },
+                "teamId": 3241,
+                "shirtNumber": 17,
+                "jerseyNumber": "17",
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 11,
+                    "accuratePass": 10,
+                    "totalLongBalls": 1,
+                    "accurateLongBalls": 1,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 1,
+                    "totalOwnHalfPasses": 2,
+                    "accurateOppositionHalfPasses": 9,
+                    "totalOppositionHalfPasses": 9,
+                    "totalCross": 4,
+                    "accurateCross": 1,
+                    "duelLost": 1,
+                    "duelWon": 2,
+                    "dispossessed": 1,
+                    "totalClearance": 1,
+                    "interceptionWon": 2,
+                    "ballRecovery": 1,
+                    "totalTackle": 1,
+                    "wasFouled": 1,
+                    "minutesPlayed": 75,
+                    "touches": 23,
+                    "rating": 6.4,
+                    "possessionLostCtrl": 5,
+                    "expectedAssists": 0.00919125,
+                    "topSpeed": 32.44,
+                    "kilometersCovered": 8.02,
+                    "numberOfSprints": 12,
+                    "totalBallCarriesDistance": 42.941433756598,
+                    "ballCarriesCount": 3,
+                    "totalProgression": 26.047760547462,
+                    "bestBallCarryProgression": 17.896880690823,
+                    "totalProgressiveBallCarriesDistance": 34.71419509469,
+                    "progressiveBallCarriesCount": 2,
+                    "ratingVersions": {
+                        "original": 6.4,
+                        "alternative": 6.4
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": -0.05,
+                    "dribbleValueNormalized": 0.11,
+                    "defensiveValueNormalized": -0.15,
+                    "metersCoveredRunningKm": 1.12,
+                    "metersCoveredHighSpeedRunningKm": 0.4,
+                    "metersCoveredSprintingKm": 0.18,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Renzo L\u00f3pez",
+                    "firstName": "Renzo",
+                    "lastName": "Lopez",
+                    "slug": "renzo-lopez",
+                    "shortName": "R. L\u00f3pez",
+                    "position": "F",
+                    "jerseyNumber": "7",
+                    "height": 190,
+                    "userCount": 491,
+                    "gender": "M",
+                    "sofascoreId": "kmrss7",
+                    "country": {
+                        "alpha2": "UY",
+                        "alpha3": "URY",
+                        "name": "Uruguay",
+                        "slug": "uruguay"
+                    },
+                    "id": 926513,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 766454400,
+                    "proposedMarketValueRaw": {
+                        "value": 585000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0631\u064a\u0646\u0632\u0648 \u0644\u0648\u0628\u064a\u0632",
+                            "bn": "\u09b0\u09c7\u09a8\u099c\u09cb \u09b2\u09cb\u09aa\u09c7\u099c",
+                            "hi": "\u0930\u0947\u0928\u094d\u091c\u093c\u094b \u0932\u094b\u092a\u0947\u091c\u093c",
+                            "ru": "\u0420\u0435\u043d\u0446\u043e \u041b\u043e\u043f\u0435\u0441"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0631. \u0644\u0648\u0628\u064a\u0632",
+                            "bn": "\u0986\u09b0. \u09b2\u09cb\u09aa\u09c7\u099c",
+                            "hi": "\u0906\u0930. \u0932\u094b\u092a\u0947\u091c\u093c",
+                            "ru": "\u0420. \u041b\u043e\u043f\u0435\u0441"
+                        }
+                    }
+                },
+                "teamId": 2001,
+                "shirtNumber": 31,
+                "jerseyNumber": "31",
+                "position": "F",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 4,
+                    "accuratePass": 2,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 1,
+                    "totalOwnHalfPasses": 1,
+                    "accurateOppositionHalfPasses": 1,
+                    "totalOppositionHalfPasses": 3,
+                    "aerialLost": 7,
+                    "aerialWon": 2,
+                    "duelLost": 7,
+                    "duelWon": 3,
+                    "totalContest": 1,
+                    "wonContest": 1,
+                    "unsuccessfulTouch": 4,
+                    "minutesPlayed": 45,
+                    "touches": 13,
+                    "rating": 6.1,
+                    "possessionLostCtrl": 6,
+                    "expectedAssists": 0.00020909,
+                    "totalBallCarriesDistance": 15.43024678999,
+                    "ballCarriesCount": 1,
+                    "totalProgression": 6.2988886002754,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.1,
+                        "alternative": 6.5
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": -0.15,
+                    "dribbleValueNormalized": 0.04,
+                    "defensiveValueNormalized": -0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Edenilson",
+                    "firstName": "Edenilson",
+                    "lastName": "Santos Nascimento Filho",
+                    "slug": "edenilson",
+                    "shortName": "Eden\u00edlson",
+                    "position": "D",
+                    "jerseyNumber": "26",
+                    "height": 180,
+                    "userCount": 170,
+                    "gender": "M",
+                    "sofascoreId": "vu89iq",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1652651,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1118966400,
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0625\u064a\u062f\u064a\u0646\u064a\u0644\u0633\u0648\u0646 \u0633\u0627\u0646\u062a\u0648\u0633 \u0646\u0627\u0633\u064a\u0645\u0646\u062a\u0648 \u0641\u064a\u0644\u0647\u0648",
+                            "ru": "\u042d\u0434\u0435\u043d\u0438\u043b\u0441\u043e\u043d"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0625. \u0641\u064a\u0644\u0647\u0648"
+                        }
+                    }
+                },
+                "teamId": 41825,
+                "shirtNumber": 26,
+                "jerseyNumber": "26",
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 32,
+                    "accuratePass": 28,
+                    "totalLongBalls": 2,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 21,
+                    "totalOwnHalfPasses": 21,
+                    "accurateOppositionHalfPasses": 7,
+                    "totalOppositionHalfPasses": 11,
+                    "duelLost": 1,
+                    "duelWon": 1,
+                    "totalClearance": 2,
+                    "ballRecovery": 2,
+                    "totalTackle": 1,
+                    "wonTackle": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 45,
+                    "touches": 36,
+                    "rating": 6.8,
+                    "possessionLostCtrl": 4,
+                    "expectedAssists": 0.0018541,
+                    "topSpeed": 33.55,
+                    "kilometersCovered": 4.63,
+                    "numberOfSprints": 9,
+                    "totalBallCarriesDistance": 147.10935281571,
+                    "ballCarriesCount": 17,
+                    "totalProgression": 48.996527122622,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.8,
+                        "alternative": 6.7
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.07,
+                    "dribbleValueNormalized": 0.04,
+                    "defensiveValueNormalized": 0.22,
+                    "metersCoveredRunningKm": 0.33,
+                    "metersCoveredHighSpeedRunningKm": 0.23,
+                    "metersCoveredSprintingKm": 0.15,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Z\u00e9 Vitor",
+                    "firstName": "Z\u00e9 Vitor",
+                    "slug": "ze-vitor",
+                    "shortName": "Z. Vitor",
+                    "position": "M",
+                    "jerseyNumber": "88",
+                    "height": 194,
+                    "userCount": 487,
+                    "gender": "M",
+                    "sofascoreId": "him2rt",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1188028,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 957225600,
+                    "proposedMarketValueRaw": {
+                        "value": 460000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0632\u064a \u0641\u064a\u062a\u0648\u0631",
+                            "ru": "\u0417\u0435 \u0412\u0438\u0442\u043e\u0440"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0632. \u0641\u064a\u062a\u0648\u0631",
+                            "ru": "\u0417. \u0412\u0438\u0442\u043e\u0440"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 88,
+                "jerseyNumber": "88",
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 32,
+                    "accuratePass": 27,
+                    "totalLongBalls": 1,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 12,
+                    "totalOwnHalfPasses": 13,
+                    "accurateOppositionHalfPasses": 15,
+                    "totalOppositionHalfPasses": 19,
+                    "totalCross": 1,
+                    "accurateCross": 1,
+                    "aerialLost": 2,
+                    "aerialWon": 3,
+                    "duelLost": 5,
+                    "duelWon": 5,
+                    "challengeLost": 1,
+                    "dispossessed": 1,
+                    "onTargetScoringAttempt": 1,
+                    "blockedScoringAttempt": 1,
+                    "interceptionWon": 2,
+                    "ballRecovery": 3,
+                    "totalTackle": 2,
+                    "wonTackle": 2,
+                    "fouls": 1,
+                    "minutesPlayed": 45,
+                    "touches": 45,
+                    "rating": 6.8,
+                    "possessionLostCtrl": 6,
+                    "expectedGoals": 0.0471,
+                    "expectedGoalsOnTarget": 0.0662,
+                    "expectedAssists": 0.0205723,
+                    "topSpeed": 29.96,
+                    "kilometersCovered": 5.84,
+                    "numberOfSprints": 4,
+                    "totalBallCarriesDistance": 86.645466432989,
+                    "ballCarriesCount": 13,
+                    "totalProgression": 41.453236346109,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.8,
+                        "alternative": 6.9
+                    },
+                    "totalShots": 2,
+                    "shotValueNormalized": -0.24,
+                    "passValueNormalized": 0.05,
+                    "dribbleValueNormalized": 0.09,
+                    "defensiveValueNormalized": 0.13,
+                    "metersCoveredRunningKm": 0.99,
+                    "metersCoveredHighSpeedRunningKm": 0.32,
+                    "metersCoveredSprintingKm": 0.06,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Ren\u00ea Sousa",
+                    "slug": "rene-sousa",
+                    "shortName": "Ren\u00ea",
+                    "position": "F",
+                    "jerseyNumber": "91",
+                    "height": 183,
+                    "userCount": 1186,
+                    "gender": "M",
+                    "sofascoreId": "p95hs9",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1644830,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1065484800,
+                    "proposedMarketValueRaw": {
+                        "value": 970000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0631\u064a\u0646\u064a\u0647 \u0633\u0648\u0632\u0627",
+                            "ru": "\u0420\u0435\u043d\u0435 \u0421\u043e\u0443\u0441\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0631. \u0633\u0648\u0632\u0627",
+                            "ru": "\u0420. \u0421\u043e\u0443\u0441\u0430"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 91,
+                "jerseyNumber": "91",
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 4,
+                    "accuratePass": 2,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 1,
+                    "totalOwnHalfPasses": 2,
+                    "accurateOppositionHalfPasses": 1,
+                    "totalOppositionHalfPasses": 2,
+                    "aerialLost": 1,
+                    "aerialWon": 1,
+                    "duelLost": 2,
+                    "duelWon": 3,
+                    "unsuccessfulTouch": 4,
+                    "wasFouled": 2,
+                    "fouls": 1,
+                    "minutesPlayed": 45,
+                    "touches": 12,
+                    "rating": 6.6,
+                    "possessionLostCtrl": 6,
+                    "expectedAssists": 0.00026956,
+                    "topSpeed": 30.95,
+                    "kilometersCovered": 5.02,
+                    "numberOfSprints": 12,
+                    "totalBallCarriesDistance": 6.3048809663625,
+                    "ballCarriesCount": 1,
+                    "totalProgression": -2.8632657970805,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.6,
+                        "alternative": 6.6
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": -0.05,
+                    "dribbleValueNormalized": -0.1,
+                    "defensiveValueNormalized": -0.02,
+                    "metersCoveredRunningKm": 0.55,
+                    "metersCoveredHighSpeedRunningKm": 0.36,
+                    "metersCoveredSprintingKm": 0.14,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Diego Tarzia",
+                    "firstName": "Diego Tarzia",
+                    "slug": "tarzia-diego",
+                    "shortName": "D. Tarzia",
+                    "position": "M",
+                    "jerseyNumber": "12",
+                    "height": 174,
+                    "userCount": 583,
+                    "gender": "M",
+                    "sofascoreId": "5fshdq",
+                    "country": {
+                        "alpha2": "AR",
+                        "alpha3": "ARG",
+                        "name": "Argentina",
+                        "slug": "argentina"
+                    },
+                    "id": 1650040,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1051315200,
+                    "proposedMarketValueRaw": {
+                        "value": 2200000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u062a\u0627\u0631\u0632\u064a\u0627\u060c \u062f\u064a\u064a\u063a\u0648",
+                            "ru": "\u0414\u0438\u0435\u0433\u043e \u0422\u0430\u0440\u0437\u0438\u044f"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u062f. \u062a\u0627\u0631\u0632\u064a\u0627",
+                            "ru": "\u0414. \u0422\u0430\u0440\u0437\u0438\u044f"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 12,
+                "jerseyNumber": "12",
+                "position": "D",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 11,
+                    "accuratePass": 11,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 1,
+                    "totalOwnHalfPasses": 1,
+                    "accurateOppositionHalfPasses": 10,
+                    "totalOppositionHalfPasses": 10,
+                    "totalCross": 1,
+                    "duelLost": 2,
+                    "duelWon": 2,
+                    "challengeLost": 1,
+                    "dispossessed": 1,
+                    "totalContest": 2,
+                    "wonContest": 2,
+                    "ballRecovery": 1,
+                    "unsuccessfulTouch": 1,
+                    "minutesPlayed": 15,
+                    "touches": 19,
+                    "rating": 6.8,
+                    "possessionLostCtrl": 4,
+                    "expectedAssists": 0.0128676,
+                    "topSpeed": 28.87,
+                    "kilometersCovered": 2.12,
+                    "numberOfSprints": 4,
+                    "totalBallCarriesDistance": 41.934595209478,
+                    "ballCarriesCount": 6,
+                    "totalProgression": 26.750669301833,
+                    "progressiveBallCarriesCount": 0,
+                    "ratingVersions": {
+                        "original": 6.8,
+                        "alternative": 6.6
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": 0.04,
+                    "dribbleValueNormalized": 0.07,
+                    "defensiveValueNormalized": -0.04,
+                    "metersCoveredRunningKm": 0.3,
+                    "metersCoveredHighSpeedRunningKm": 0.16,
+                    "metersCoveredSprintingKm": 0.02,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Lucas Silva",
+                    "firstName": "Lucas",
+                    "lastName": "Silva",
+                    "slug": "lucas-silva",
+                    "shortName": "L. Silva",
+                    "position": "M",
+                    "jerseyNumber": "20",
+                    "height": 182,
+                    "userCount": 198,
+                    "gender": "M",
+                    "sofascoreId": "zbbt9e",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 980421,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 935712000,
+                    "proposedMarketValueRaw": {
+                        "value": 645000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0644\u0648\u0643\u0627\u0633 \u0633\u064a\u0644\u0641\u0627",
+                            "ru": "\u041b\u0443\u043a\u0430\u0441 \u0421\u0438\u043b\u0432\u0430"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0644. \u0633\u064a\u0644\u0641\u0627",
+                            "ru": "\u041b. \u0421\u0438\u043b\u0432\u0430"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 20,
+                "jerseyNumber": "20",
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 7,
+                    "accuratePass": 7,
+                    "goalAssist": 0,
+                    "accurateOwnHalfPasses": 4,
+                    "totalOwnHalfPasses": 4,
+                    "accurateOppositionHalfPasses": 3,
+                    "totalOppositionHalfPasses": 3,
+                    "aerialWon": 1,
+                    "duelLost": 3,
+                    "duelWon": 1,
+                    "dispossessed": 2,
+                    "totalContest": 1,
+                    "ballRecovery": 2,
+                    "minutesPlayed": 8,
+                    "touches": 11,
+                    "rating": 6.4,
+                    "possessionLostCtrl": 3,
+                    "expectedAssists": 0.0230724,
+                    "topSpeed": 27.63,
+                    "kilometersCovered": 1.48,
+                    "numberOfSprints": 2,
+                    "totalBallCarriesDistance": 6.3918511403192,
+                    "ballCarriesCount": 1,
+                    "totalProgression": -4.4209602479947,
+                    "progressiveBallCarriesCount": 0,
+                    "keyPass": 1,
+                    "ratingVersions": {
+                        "original": 6.4,
+                        "alternative": 6.5
+                    },
+                    "totalShots": 0,
+                    "passValueNormalized": -0.04,
+                    "dribbleValueNormalized": -0.04,
+                    "defensiveValueNormalized": -0,
+                    "metersCoveredRunningKm": 0.37,
+                    "metersCoveredHighSpeedRunningKm": 0.13,
+                    "metersCoveredSprintingKm": 0.03,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Gabriel",
+                    "firstName": "Gabriel",
+                    "lastName": "Gabriel",
+                    "slug": "gabriel",
+                    "shortName": "Gabriel",
+                    "position": "G",
+                    "jerseyNumber": "22",
+                    "height": 193,
+                    "userCount": 504,
+                    "gender": "M",
+                    "sofascoreId": "vtm93s",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 147467,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 717552000,
+                    "proposedMarketValueRaw": {
+                        "value": 465000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u063a\u0627\u0628\u0631\u064a\u064a\u0644",
+                            "bn": "\u0997\u09cd\u09af\u09be\u09ac\u09cd\u09b0\u09bf\u09af\u09bc\u09c7\u09b2 \u09ad\u09be\u09b8\u0995\u09a8\u09b8\u09c7\u09b2\u09cb\u09b8",
+                            "hi": "\u0917\u0947\u092c\u094d\u0930\u093f\u092f\u0932 \u0935\u093e\u0938\u094d\u0915\u094b\u0928\u0938\u0947\u0932\u094b\u0938",
+                            "ru": "\u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u063a\u0627\u0628\u0631\u064a\u064a\u0644",
+                            "bn": "\u0997\u09cd\u09af\u09be\u09ac\u09cd\u09b0\u09bf\u09af\u09bc\u09c7\u09b2 \u09ad\u09be\u09b8\u0995\u09a8\u09b8\u09c7\u09b2\u09cb\u09b8",
+                            "hi": "\u0917\u0947\u092c\u094d\u0930\u093f\u092f\u0932 \u0935\u093e\u0938\u094d\u0915\u094b\u0928\u0938\u0947\u0932\u094b\u0938",
+                            "ru": "\u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 22,
+                "jerseyNumber": "22",
+                "position": "G",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Luan C\u00e2ndido",
+                    "firstName": "Luan",
+                    "lastName": "Candido",
+                    "slug": "luan-candido",
+                    "shortName": "L. C\u00e2ndido",
+                    "position": "D",
+                    "jerseyNumber": "36",
+                    "height": 187,
+                    "userCount": 844,
+                    "gender": "M",
+                    "sofascoreId": "uuab9n",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 905459,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 981072000,
+                    "proposedMarketValueRaw": {
+                        "value": 3100000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u0646\u062f\u064a\u062f\u0648, \u0644\u0648\u0627\u0646",
+                            "ru": "\u041b\u0443\u0430\u043d \u041a\u0430\u043d\u0434\u0438\u0434\u0443"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0644. \u0643\u0627\u0646\u062f\u064a\u062f\u0648",
+                            "ru": "\u041b. \u041a\u0430\u043d\u0434\u0438\u0434\u0443"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 36,
+                "jerseyNumber": "36",
+                "position": "D",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Osvaldo",
+                    "slug": "osvaldo",
+                    "shortName": "Osvaldo",
+                    "position": "M",
+                    "jerseyNumber": "11",
+                    "height": 170,
+                    "userCount": 657,
+                    "gender": "M",
+                    "sofascoreId": "qa42ip",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 90468,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 545097600,
+                    "proposedMarketValueRaw": {
+                        "value": 72000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0623\u0648\u0632\u0641\u0627\u0644\u062f\u0648",
+                            "ru": "\u041e\u0441\u0432\u0430\u043b\u044c\u0434\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0623\u0648\u0632\u0641\u0627\u0644\u062f\u0648"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 11,
+                "jerseyNumber": "11",
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Anderson Pato",
+                    "slug": "anderson-pato",
+                    "shortName": "A. Pato",
+                    "position": "M",
+                    "jerseyNumber": "28",
+                    "height": 178,
+                    "userCount": 450,
+                    "gender": "M",
+                    "sofascoreId": "c8bh8u",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 2441013,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 1033171200,
+                    "proposedMarketValueRaw": {
+                        "value": 240000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0623\u0646\u062f\u0631\u0633\u0648\u0646 \u0628\u0627\u062a\u0648",
+                            "ru": "\u0410\u043d\u0434\u0435\u0440\u0441\u043e\u043d \u041f\u0430\u0442\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0623. \u0628\u0627\u062a\u0648",
+                            "ru": "\u0410. \u041f\u0430\u0442\u043e"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 28,
+                "jerseyNumber": "28",
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Caique Gon\u00e7alves",
+                    "slug": "caique-goncalves",
+                    "shortName": "Caique",
+                    "position": "M",
+                    "jerseyNumber": "95",
+                    "height": 178,
+                    "userCount": 466,
+                    "gender": "M",
+                    "sofascoreId": "5t963z",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 871032,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 813283200,
+                    "proposedMarketValueRaw": {
+                        "value": 485000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0627\u064a\u0648 \u063a\u0648\u0646\u0633\u0627\u0644\u0641\u064a\u0633",
+                            "ru": "\u041a\u0430\u0439\u043a\u0435 \u0413\u043e\u043d\u0441\u0430\u043b\u0432\u0435\u0448"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643. \u063a\u0648\u0646\u0633\u0627\u0644\u0641\u064a\u0633",
+                            "ru": "\u041a. \u0413\u043e\u043d\u0441\u0430\u043b\u0432\u0435\u0448"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 95,
+                "jerseyNumber": "95",
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Ronald",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "ronald",
+                    "shortName": "Ronald",
+                    "position": "M",
+                    "jerseyNumber": "14",
+                    "height": 171,
+                    "userCount": 455,
+                    "gender": "M",
+                    "sofascoreId": "g8esuw",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 931521,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 866592000,
+                    "proposedMarketValueRaw": {
+                        "value": 675000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0631\u0648\u0646\u0627\u0644\u062f",
+                            "ru": "\u0420\u043e\u043d\u0430\u043b\u0434"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0631\u0648\u0646\u0627\u0644\u062f",
+                            "ru": "\u0420\u043e\u043d\u0430\u043b\u0434"
+                        }
+                    }
+                },
+                "teamId": 1984,
+                "shirtNumber": 8,
+                "jerseyNumber": "8",
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            },
+            {
+                "player": {
+                    "name": "Fabr\u00edcio Santos",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "fabricio-santos",
+                    "shortName": "F. Santos",
+                    "position": "F",
+                    "jerseyNumber": "23",
+                    "height": 186,
+                    "userCount": 521,
+                    "gender": "M",
+                    "sofascoreId": "xzzjun",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 975351,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 970963200,
+                    "proposedMarketValueRaw": {
+                        "value": 930000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0641\u0627\u0628\u0631\u064a\u0634\u064a\u0648 \u0633\u0627\u0646\u062a\u0648\u0633",
+                            "ru": "\u0424\u0430\u0431\u0440\u0438\u0446\u0438\u043e \u0421\u0430\u043d\u0442\u043e\u0441"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0641. \u0633\u0627\u0646\u062a\u0648\u0633",
+                            "ru": "\u0424. \u0421\u0430\u043d\u0442\u043e\u0441"
+                        }
+                    }
+                },
+                "teamId": 1962,
+                "shirtNumber": 23,
+                "jerseyNumber": "23",
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalShots": 0,
+                    "statisticsType": {
+                        "sportSlug": "football",
+                        "statisticsType": "player"
+                    }
+                }
+            }
+        ],
+        "supportStaff": [],
+        "formation": "4-2-3-1",
+        "playerColor": {
+            "primary": "ff0000",
+            "number": "ffffff",
+            "outline": "ff0000",
+            "fancyNumber": "ffffff"
+        },
+        "goalkeeperColor": {
+            "primary": "d35522",
+            "number": "ffffff",
+            "outline": "d35522",
+            "fancyNumber": "ffffff"
+        },
+        "missingPlayers": [
+            {
+                "player": {
+                    "name": "Alexandre Fintelman",
+                    "slug": "alexandre-fintelman",
+                    "shortName": "A. Fintelman",
+                    "position": "G",
+                    "jerseyNumber": "35",
+                    "height": 194,
+                    "userCount": 205,
+                    "gender": "M",
+                    "sofascoreId": "tdbqea",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1017274,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 995587200,
+                    "proposedMarketValueRaw": {
+                        "value": 105000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0623\u0644\u0643\u0633\u0646\u062f\u0631 \u0641\u064a\u0646\u062a\u0644\u0645\u0627\u0646",
+                            "ru": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0424\u0438\u043d\u0442\u0435\u043b\u043c\u0430\u043d"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0623. \u0641\u064a\u0646\u062a\u0644\u0645\u0627\u0646",
+                            "ru": "\u0410. \u0424\u0438\u043d\u0442\u0435\u043b\u043c\u0430\u043d"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Hip Injury",
+                "externalType": 72,
+                "expectedEndDate": "2026-04-21T00:00:00+00:00"
+            },
+            {
+                "player": {
+                    "name": "Dudu",
+                    "slug": "dudu",
+                    "shortName": "D. Rodrigues",
+                    "position": "M",
+                    "jerseyNumber": "21",
+                    "height": 186,
+                    "userCount": 618,
+                    "gender": "M",
+                    "sofascoreId": "hijpak",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1124220,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 928540800,
+                    "proposedMarketValueRaw": {
+                        "value": 620000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u062f\u0648\u062f\u0648",
+                            "ru": "\u0414\u0443\u0434\u0443"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u062f\u0648\u062f\u0648"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "externalType": 5
+            },
+            {
+                "player": {
+                    "name": "Edu",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "edu",
+                    "shortName": "Edu",
+                    "position": "D",
+                    "jerseyNumber": "43",
+                    "height": 188,
+                    "userCount": 341,
+                    "gender": "M",
+                    "sofascoreId": "ut5bv7",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 989715,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 961113600,
+                    "proposedMarketValueRaw": {
+                        "value": 730000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0625\u062f\u0648",
+                            "ru": "\u042d\u0434\u0443"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0625\u062f\u0648"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "externalType": 5
+            },
+            {
+                "player": {
+                    "name": "Marinho",
+                    "firstName": "Mario Sergio",
+                    "lastName": "Marinho",
+                    "slug": "marinho",
+                    "shortName": "Marinho",
+                    "position": "F",
+                    "jerseyNumber": "7",
+                    "height": 169,
+                    "userCount": 2560,
+                    "gender": "M",
+                    "sofascoreId": "i62fwe",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 798127,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 643939200,
+                    "proposedMarketValueRaw": {
+                        "value": 195000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0645\u0627\u0631\u064a\u0646\u064a\u0648",
+                            "bn": "\u09ae\u09be\u09b0\u09bf\u09a8\u09b9\u09cb",
+                            "hi": "\u092e\u093e\u0930\u0940\u0928\u094d\u0939\u094b",
+                            "ru": "\u041c\u0430\u0440\u0438\u043d\u044c\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0645\u0627\u0631\u064a\u0646\u064a\u0648",
+                            "bn": "\u09ae\u09be\u09b0\u09bf\u09a8\u09b9\u09cb",
+                            "hi": "\u092e\u093e\u0930\u093f\u0928\u094d\u0939\u094b"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Thigh Injury",
+                "externalType": 72
+            },
+            {
+                "player": {
+                    "name": "Mateusinho",
+                    "firstName": "Mateusinho",
+                    "lastName": "",
+                    "slug": "mateusinho",
+                    "shortName": "Mateusinho",
+                    "position": "D",
+                    "jerseyNumber": "98",
+                    "height": 175,
+                    "userCount": 368,
+                    "gender": "M",
+                    "sofascoreId": "kmn3k8",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 1107069,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 907718400,
+                    "proposedMarketValueRaw": {
+                        "value": 775000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0645\u0627\u062a\u064a\u0648\u0633\u064a\u0646\u064a\u0647\u0648",
+                            "ru": "\u041c\u0430\u0442\u0435\u0439\u0437\u0438\u043d\u044c\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0645\u0627\u062a\u064a\u0648\u0633\u064a\u0646\u064a\u0647\u0648",
+                            "ru": "\u041c\u0430\u0442\u0435\u0439\u0437\u0438\u043d\u044c\u043e"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Muscle Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-07-31T00:00:00+00:00"
+            },
+            {
+                "player": {
+                    "name": "Pedro Henrique",
+                    "firstName": "Pedro Henrique",
+                    "lastName": "Pedro Henrique",
+                    "slug": "pedro-henrique",
+                    "shortName": "P. Henrique",
+                    "position": "F",
+                    "jerseyNumber": "96",
+                    "height": 188,
+                    "userCount": 647,
+                    "gender": "M",
+                    "sofascoreId": "hhdrdc",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 911263,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 847411200,
+                    "proposedMarketValueRaw": {
+                        "value": 1400000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0628\u064a\u062f\u0631\u0648 \u0647\u0646\u0631\u064a\u0643\u064a",
+                            "ru": "\u041f\u0435\u0434\u0440\u043e \u042d\u043d\u0440\u0438\u043a\u0435"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0628. \u0647\u0646\u0631\u064a\u0643\u064a",
+                            "ru": "\u041f. \u042d\u043d\u0440\u0438\u043a\u0435"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "externalType": 5
+            },
+            {
+                "player": {
+                    "name": "Renato Kayzer",
+                    "firstName": "Renato",
+                    "lastName": "Kayzer",
+                    "slug": "renato-kayzer",
+                    "shortName": "R. Kayzer",
+                    "position": "F",
+                    "jerseyNumber": "79",
+                    "height": 178,
+                    "userCount": 1595,
+                    "gender": "M",
+                    "sofascoreId": "j8dgbr",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 814723,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 824515200,
+                    "proposedMarketValueRaw": {
+                        "value": 915000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0631\u064a\u0646\u0627\u062a\u0648 \u0643\u0627\u064a\u0632\u0631",
+                            "ru": "\u0420\u0435\u043d\u0430\u0442\u043e \u041a\u0430\u0439\u0437\u0435\u0440"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0631. \u0643\u0627\u064a\u0632\u0631",
+                            "ru": "\u0420. \u041a\u0430\u0439\u0437\u0435\u0440"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Tired",
+                "externalType": 72
+            },
+            {
+                "player": {
+                    "name": "Riccieli",
+                    "slug": "riccieli",
+                    "shortName": "Riccieli",
+                    "position": "D",
+                    "jerseyNumber": "5",
+                    "height": 184,
+                    "userCount": 231,
+                    "gender": "M",
+                    "sofascoreId": "p9425s",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 927166,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 905990400,
+                    "proposedMarketValueRaw": {
+                        "value": 1700000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0631\u064a\u062a\u0634\u064a\u0644\u0644\u064a",
+                            "ru": "\u0420\u0438\u0447\u0447\u0435\u043b\u0438"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0631\u064a\u062a\u0634\u064a\u0644\u0644\u064a",
+                            "ru": "\u0420\u0438\u0447\u0447\u0435\u043b\u0438"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Calf Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-09-10T00:00:00+00:00"
+            },
+            {
+                "player": {
+                    "name": "R\u00faben Ramos Ismael",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "ruben-ramos-ismael",
+                    "shortName": "Ismael",
+                    "position": "M",
+                    "jerseyNumber": "16",
+                    "height": 184,
+                    "userCount": 213,
+                    "gender": "M",
+                    "sofascoreId": "rs2d6r",
+                    "country": {
+                        "alpha2": "PT",
+                        "alpha3": "PRT",
+                        "name": "Portugal",
+                        "slug": "portugal"
+                    },
+                    "id": 1469058,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 922320000,
+                    "proposedMarketValueRaw": {
+                        "value": 1200000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0631\u0648\u0628\u064a\u0646 \u0631\u0627\u0645\u0648\u0633 \u0625\u0633\u0645\u0627\u0639\u064a\u0644",
+                            "ru": "\u0420\u0443\u0431\u0435\u043d \u0420\u0430\u043c\u043e\u0441 \u0418\u0441\u043c\u0430\u044d\u043b\u044c"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0631. \u0625\u0633\u0645\u0627\u0639\u064a\u0644",
+                            "ru": "\u0420. \u0418\u0441\u043c\u0430\u044d\u043b\u044c"
+                        }
+                    }
+                },
+                "type": "missing",
+                "reason": 1,
+                "externalType": 5
+            },
+            {
+                "player": {
+                    "name": "Claudinho",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "claudinho",
+                    "shortName": "Claudinho",
+                    "position": "D",
+                    "jerseyNumber": "27",
+                    "height": 180,
+                    "userCount": 543,
+                    "gender": "M",
+                    "sofascoreId": "xzdadg",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 992791,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 969753600,
+                    "proposedMarketValueRaw": {
+                        "value": 1800000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0643\u0644\u0648\u062f\u064a\u0646\u064a\u0648",
+                            "ru": "\u041a\u043b\u0430\u0443\u0434\u0438\u043d\u044c\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0643\u0644\u0648\u062f\u064a\u0646\u064a\u0648",
+                            "ru": "\u041a\u043b\u0430\u0443\u0434\u0438\u043d\u044c\u043e"
+                        }
+                    }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Knee Injury",
+                "externalType": 72,
+                "expectedEndDate": "2026-05-16T00:00:00+00:00"
+            },
+            {
+                "player": {
+                    "name": "Wellington Rato",
+                    "slug": "wellington-rato",
+                    "shortName": "W. Rato",
+                    "position": "F",
+                    "jerseyNumber": "27",
+                    "height": 172,
+                    "userCount": 1338,
+                    "gender": "M",
+                    "sofascoreId": "eikda8",
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 865356,
+                    "marketValueCurrency": "EUR",
+                    "dateOfBirthTimestamp": 708825600,
+                    "proposedMarketValueRaw": {
+                        "value": 475000,
+                        "currency": "EUR"
+                    },
+                    "fieldTranslations": {
+                        "nameTranslation": {
+                            "ar": "\u0648\u064a\u0644\u064a\u0646\u063a\u062a\u0648\u0646 \u0631\u0627\u062a\u0648",
+                            "bn": "\u0993\u09af\u09bc\u09c7\u09b2\u09bf\u0982\u099f\u09a8 \u09b0\u09be\u099f\u09cb",
+                            "hi": "\u0935\u0947\u0932\u093f\u0902\u0917\u091f\u0928 \u0930\u093e\u091f\u094b",
+                            "ru": "\u0423\u044d\u043b\u043b\u0438\u043d\u0433\u0442\u043e\u043d \u0420\u0430\u0442\u043e"
+                        },
+                        "shortNameTranslation": {
+                            "ar": "\u0648. \u0631\u0627\u062a\u0648",
+                            "bn": "\u09a1\u09ac\u09cd\u09b2\u09bf\u0989. \u09b0\u09be\u09a4\u09cb",
+                            "hi": "\u0921\u092c\u094d\u0932\u094d\u092f\u0942. \u0930\u093e\u091f\u094b",
+                            "ru": "\u0423. \u0420\u0430\u0442\u043e"
+                        }
+                    }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "ACL Knee Injury",
+                "externalType": 72,
+                "expectedEndDate": "2026-08-01T00:00:00+00:00"
+            }
+        ]
+    },
+    "statisticalVersion": 3
+}
